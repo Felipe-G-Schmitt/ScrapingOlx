@@ -141,6 +141,44 @@ function mediana(valores) {
     : (ordenados[meio - 1] + ordenados[meio]) / 2;
 }
 
+// Q1 e Q3 pelo método da mediana das metades (exclui o valor central
+// quando a quantidade de itens é ímpar).
+function calcularQuartis(valoresOrdenados) {
+  const n = valoresOrdenados.length;
+  const meio = Math.floor(n / 2);
+  const metadeInferior = valoresOrdenados.slice(0, meio);
+  const metadeSuperior = n % 2 === 0 ? valoresOrdenados.slice(meio) : valoresOrdenados.slice(meio + 1);
+  return { q1: mediana(metadeInferior), q3: mediana(metadeSuperior) };
+}
+
+// Remove anúncios com preço muito fora da curva (regra do IQR, padrão
+// estatístico: fora de [Q1 - 1.5*IQR, Q3 + 1.5*IQR]). Com menos de 4
+// anúncios não dá pra calcular isso com confiança, então não filtra.
+function removerDiscrepantes(anuncios) {
+  if (anuncios.length < 4) {
+    return { validos: anuncios, descartados: [] };
+  }
+
+  const precosOrdenados = anuncios.map(a => a.preco).sort((a, b) => a - b);
+  const { q1, q3 } = calcularQuartis(precosOrdenados);
+  const iqr = q3 - q1;
+  const limiteInferior = q1 - 1.5 * iqr;
+  const limiteSuperior = q3 + 1.5 * iqr;
+
+  const validos = [];
+  const descartados = [];
+
+  for (const anuncio of anuncios) {
+    if (anuncio.preco < limiteInferior || anuncio.preco > limiteSuperior) {
+      descartados.push(anuncio);
+    } else {
+      validos.push(anuncio);
+    }
+  }
+
+  return { validos, descartados };
+}
+
 async function buscarAnuncios(page, busca) {
   await page.goto(busca.url, { waitUntil: "domcontentloaded", timeout: 30000 });
 
@@ -205,7 +243,8 @@ async function buscarAnuncios(page, busca) {
 
     for (const busca of buscas) {
       console.log(`🔎 Buscando: ${busca.modelo}`);
-      const anuncios = await buscarAnuncios(page, busca);
+      const anunciosBrutos = await buscarAnuncios(page, busca);
+      const { validos: anuncios, descartados: discrepantes } = removerDiscrepantes(anunciosBrutos);
       const precos = anuncios.map(a => a.preco);
 
       resultados.push({
@@ -215,10 +254,14 @@ async function buscarAnuncios(page, busca) {
         precoMinimo: precos.length ? Math.min(...precos) : null,
         precoMediano: mediana(precos),
         precoMaximo: precos.length ? Math.max(...precos) : null,
-        anuncios
+        anuncios,
+        anunciosDescartadosPorPreco: discrepantes
       });
 
       console.log(`   ${anuncios.length} anúncio(s) válido(s) encontrado(s)`);
+      if (discrepantes.length) {
+        console.log(`   ⚠️  ${discrepantes.length} anúncio(s) descartado(s) por preço discrepante`);
+      }
       await sleep(4000 + Math.random() * 3000); // 4-7s, intervalo variável entre buscas
     }
 
