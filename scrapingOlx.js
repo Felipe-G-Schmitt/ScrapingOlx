@@ -97,6 +97,93 @@ function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
+const MESES_PT = {
+  janeiro: 0, jan: 0,
+  fevereiro: 1, fev: 1,
+  março: 2, marco: 2, mar: 2,
+  abril: 3, abr: 3,
+  maio: 4, mai: 4,
+  junho: 5, jun: 5,
+  julho: 6, jul: 6,
+  agosto: 7, ago: 7,
+  setembro: 8, set: 8,
+  outubro: 9, out: 9,
+  novembro: 10, nov: 10,
+  dezembro: 11, dez: 11
+};
+
+// Converte o texto de data da OLX ("Hoje, 14:32", "Ontem, 18:55",
+// "9 de outubro", "09/10/2026"...) numa Date real. Retorna null se o
+// formato não for reconhecido (ex: só o nome do dia da semana).
+function parseDataAnuncio(textoOriginal, agora) {
+  if (!textoOriginal) return null;
+  const texto = textoOriginal.toLowerCase().trim();
+
+  if (texto.startsWith("hoje")) {
+    const horaMatch = texto.match(/(\d{1,2}):(\d{2})/);
+    const data = new Date(agora);
+    if (horaMatch) data.setHours(Number(horaMatch[1]), Number(horaMatch[2]), 0, 0);
+    else data.setHours(0, 0, 0, 0);
+    return data;
+  }
+
+  if (texto.startsWith("ontem")) {
+    const horaMatch = texto.match(/(\d{1,2}):(\d{2})/);
+    const data = new Date(agora);
+    data.setDate(data.getDate() - 1);
+    if (horaMatch) data.setHours(Number(horaMatch[1]), Number(horaMatch[2]), 0, 0);
+    else data.setHours(0, 0, 0, 0);
+    return data;
+  }
+
+  let match = texto.match(/(\d{1,2})\/(\d{1,2})\/(\d{4})/);
+  if (match) {
+    const [, dia, mes, ano] = match;
+    return new Date(Number(ano), Number(mes) - 1, Number(dia));
+  }
+
+  match = texto.match(/(\d{1,2})\s+de\s+([a-zç]+)(?:\s+de\s+(\d{4}))?/);
+  if (match) {
+    const [, dia, mesTexto, anoTexto] = match;
+    const mesIndex = MESES_PT[mesTexto];
+    if (mesIndex === undefined) return null;
+    const ano = anoTexto ? Number(anoTexto) : agora.getFullYear();
+    const data = new Date(ano, mesIndex, Number(dia));
+    // Sem ano explícito e data "no futuro" -> provavelmente é do ano anterior.
+    if (!anoTexto && data > agora) data.setFullYear(data.getFullYear() - 1);
+    return data;
+  }
+
+  return null;
+}
+
+// Separa os anúncios em: dentro do limite de dias, mais antigos que o
+// limite, e com data em formato não reconhecido (fica de fora da lista
+// principal por segurança, mas disponível pra inspeção).
+function filtrarPorData(anuncios, agora, limiteDias = 30) {
+  const limiteMs = limiteDias * 24 * 60 * 60 * 1000;
+  const validos = [];
+  const antigos = [];
+  const dataNaoReconhecida = [];
+
+  for (const anuncio of anuncios) {
+    const dataPublicacao = parseDataAnuncio(anuncio.data, agora);
+
+    if (!dataPublicacao) {
+      dataNaoReconhecida.push(anuncio);
+      continue;
+    }
+
+    if (agora - dataPublicacao > limiteMs) {
+      antigos.push(anuncio);
+    } else {
+      validos.push(anuncio);
+    }
+  }
+
+  return { validos, antigos, dataNaoReconhecida };
+}
+
 // Verifica se "termo" aparece como palavra inteira em "titulo" (não como
 // parte de outra palavra/número). É isso que evita "16" bater em "16e",
 // ou "pro" bater em "aprovado".
@@ -240,11 +327,14 @@ async function buscarAnuncios(page, busca) {
 
   try {
     const resultados = [];
+    const agora = new Date();
 
     for (const busca of buscas) {
       console.log(`🔎 Buscando: ${busca.modelo}`);
       const anunciosBrutos = await buscarAnuncios(page, busca);
-      const { validos: anuncios, descartados: discrepantes } = removerDiscrepantes(anunciosBrutos);
+
+      const { validos: anunciosRecentes, antigos, dataNaoReconhecida } = filtrarPorData(anunciosBrutos, agora, 30);
+      const { validos: anuncios, descartados: discrepantes } = removerDiscrepantes(anunciosRecentes);
       const precos = anuncios.map(a => a.preco);
 
       resultados.push({
@@ -255,10 +345,18 @@ async function buscarAnuncios(page, busca) {
         precoMediano: mediana(precos),
         precoMaximo: precos.length ? Math.max(...precos) : null,
         anuncios,
-        anunciosDescartadosPorPreco: discrepantes
+        anunciosDescartadosPorPreco: discrepantes,
+        anunciosMaisAntigosQue30Dias: antigos,
+        anunciosDataNaoReconhecida: dataNaoReconhecida
       });
 
       console.log(`   ${anuncios.length} anúncio(s) válido(s) encontrado(s)`);
+      if (antigos.length) {
+        console.log(`   🕓 ${antigos.length} anúncio(s) descartado(s) por ter mais de 30 dias`);
+      }
+      if (dataNaoReconhecida.length) {
+        console.log(`   ⚠️  ${dataNaoReconhecida.length} anúncio(s) com data em formato não reconhecido`);
+      }
       if (discrepantes.length) {
         console.log(`   ⚠️  ${discrepantes.length} anúncio(s) descartado(s) por preço discrepante`);
       }
