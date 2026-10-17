@@ -1,14 +1,14 @@
 {
-  "atualizadoEm": "2026-10-15T23:28:57.117Z",
+  "atualizadoEm": "2026-10-17T13:15:40.790Z",
   "totalBuscas": 13,
   "resultados": [
     {
       "modelo": "iPhone 15 128GB",
       "url": "https://www.olx.com.br/celulares/apple/iphone-15/128gb/estado-sc/norte-de-santa-catarina?sp=1",
-      "totalAnuncios": 46,
+      "totalAnuncios": 45,
       "precoMinimo": 2399,
       "precoMediano": 2890,
-      "precoMaximo": 3100,
+      "precoMaximo": 3099,
       "anuncios": [
         {
           "id": "1543002727",
@@ -38,21 +38,12 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/29/291623200672815.webp"
         },
         {
-          "id": "1536430893",
-          "titulo": "iPhone 15 128GB YELLOW",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-128gb-yellow-1536430893",
-          "preco": 2399,
-          "localizacao": "Balneário Camboriú, Centro",
-          "data": "17 de set, 13:50",
-          "imagem": "https://img.olx.com.br/thumbs700x500/73/733672086647591.webp"
-        },
-        {
           "id": "1544279212",
           "titulo": "iPhone 15 128 gb",
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-128-gb-1544279212",
           "preco": 2500,
           "localizacao": "Blumenau, Victor Konder",
-          "data": "Ontem, 21:24",
+          "data": "14 de out, 21:24",
           "imagem": "https://img.olx.com.br/thumbs700x500/38/381691330439428.webp"
         },
         {
@@ -79,8 +70,17 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-128gb-azul-seminovo-bateria-83-1544268776",
           "preco": 2549,
           "localizacao": "Blumenau, Itoupava Central",
-          "data": "Ontem, 20:31",
+          "data": "14 de out, 20:31",
           "imagem": "https://img.olx.com.br/thumbs700x500/58/584687459662156.webp"
+        },
+        {
+          "id": "1543902497",
+          "titulo": "iPhone 15 128GB",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-128gb-1543902497",
+          "preco": 2599,
+          "localizacao": "Itajaí, Carvalho",
+          "data": "13 de out, 15:01",
+          "imagem": null
         },
         {
           "id": "1542778410",
@@ -101,15 +101,6 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/84/840661337947235.webp"
         },
         {
-          "id": "1543902497",
-          "titulo": "iPhone 15 128GB",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-128gb-1543902497",
-          "preco": 2699,
-          "localizacao": "Itajaí, Carvalho",
-          "data": "13 de out, 15:01",
-          "imagem": null
-        },
-        {
           "id": "1538422287",
           "titulo": "Iphone 15 - 128 gb",
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-128-gb-1538422287",
@@ -117,15 +108,6 @@
           "localizacao": "Balneário Camboriú, Centro",
           "data": "24 de set, 10:05",
           "imagem": "https://img.olx.com.br/thumbs700x500/61/611652562430510.webp"
-        },
-        {
-          "id": "1536370659",
-          "titulo": "iPhone 15 128gb",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-128gb-1536370659",
-          "preco": 2700,
-          "localizacao": "Itajaí, São Vicente",
-          "data": "17 de set, 11:44",
-          "imagem": "https://img.olx.com.br/thumbs700x500/96/960662323360502.webp"
         },
         {
           "id": "1542450911",
@@ -137,13 +119,22 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/87/870618339389848.webp"
         },
         {
-          "id": "1536179306",
-          "titulo": "IPHONE 15 | 128GB | 91%",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-128gb-91-1536179306",
-          "preco": 2790,
-          "localizacao": "Joinville, Itaum",
-          "data": "16 de set, 18:11",
-          "imagem": "https://img.olx.com.br/thumbs700x500/15/157673682534998.webp"
+          "id": "1544543472",
+          "titulo": "iPhone 15 128GB - Ótimo Estado de Conservação",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-128gb-otimo-estado-de-conservacao-1544543472",
+          "preco": 2770,
+          "localizacao": "Itajaí, São Vicente",
+          "data": "15 de out, 21:07",
+          "imagem": "https://img.olx.com.br/thumbs700x500/15/153611216060994.webp"
+        },
+        {
+          "id": "1544826642",
+          "titulo": "iPhone 15 128GB em perfeito estado!",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-128gb-em-perfeito-estado-1544826642",
+          "preco": 2799,
+          "localizacao": "Joinville, Vila Nova",
+          "data": "Ontem, 16:49",
+          "imagem": "https://img.olx.com.br/thumbs700x500/20/206649575976830.webp"
         },
         {
           "id": "1514720707",
@@ -160,7 +151,7 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-128-gb-super-conservado-1544066201",
           "preco": 2800,
           "localizacao": "Joinville, Atiradores",
-          "data": "Ontem, 09:03",
+          "data": "14 de out, 09:03",
           "imagem": "https://img.olx.com.br/thumbs700x500/51/511681579975486.webp"
         },
         {
@@ -214,7 +205,7 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-128gb-preto-1544118643",
           "preco": 2890,
           "localizacao": "Balneário Camboriú, Centro",
-          "data": "Ontem, 11:30",
+          "data": "14 de out, 11:30",
           "imagem": "https://img.olx.com.br/thumbs700x500/75/758628814539840.webp"
         },
         {
@@ -223,7 +214,7 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-128gb-1544118022",
           "preco": 2890,
           "localizacao": "Balneário Camboriú, Centro",
-          "data": "Ontem, 11:29",
+          "data": "14 de out, 11:29",
           "imagem": "https://img.olx.com.br/thumbs700x500/76/769617217062973.webp"
         },
         {
@@ -232,7 +223,7 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-128gb-preto-impecavel-1544229092",
           "preco": 2899,
           "localizacao": "Jaraguá do Sul, Jaraguá Esquerdo",
-          "data": "Ontem, 17:24",
+          "data": "14 de out, 17:24",
           "imagem": "https://img.olx.com.br/thumbs700x500/67/674640215076049.webp"
         },
         {
@@ -313,8 +304,8 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-128gb-verde-impecavel-original-88-bateria-1544502674",
           "preco": 2999,
           "localizacao": "Indaial, Tapajós",
-          "data": "Hoje, 17:43",
-          "imagem": "https://img.olx.com.br/thumbs700x500/52/524658815702883.webp"
+          "data": "15 de out, 17:43",
+          "imagem": "https://img.olx.com.br/thumbs700x500/28/282626931583616.webp"
         },
         {
           "id": "1542345149",
@@ -335,6 +326,15 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/82/827623562013348.webp"
         },
         {
+          "id": "1544832821",
+          "titulo": "Vendo iPhone 15, 126gb",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/vendo-iphone-15-126gb-1544832821",
+          "preco": 3000,
+          "localizacao": "Rio do Sul, Budag",
+          "data": "Ontem, 17:15",
+          "imagem": "https://img.olx.com.br/thumbs700x500/66/667660335714524.webp"
+        },
+        {
           "id": "1543993479",
           "titulo": "Vendo iPhone 15 zerado com caixa e tudo mas mas informações chamar no whatsapp *",
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/vendo-iphone-15-zerado-com-caixa-e-tudo-mas-mas-informacoes-chamar-no-whatsapp-1543993479",
@@ -342,6 +342,15 @@
           "localizacao": "Gaspar, Bela Vista",
           "data": "13 de out, 21:38",
           "imagem": "https://img.olx.com.br/thumbs700x500/31/312669577192325.webp"
+        },
+        {
+          "id": "1543834613",
+          "titulo": "? IPHONE 15 PRETO ? 128GB À VENDA! ?",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-preto-128gb-venda-1543834613",
+          "preco": 3000,
+          "localizacao": "Joinville, Aventureiro",
+          "data": "13 de out, 13:16",
+          "imagem": "https://img.olx.com.br/thumbs700x500/34/342669815691025.webp"
         },
         {
           "id": "1543787878",
@@ -398,43 +407,34 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/65/656621688649066.webp"
         },
         {
-          "id": "1543621302",
-          "titulo": "iPhone 15",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-1543621302",
-          "preco": 3100,
-          "localizacao": "Itajaí, São Judas",
-          "data": "12 de out, 14:24",
-          "imagem": "https://img.olx.com.br/thumbs700x500/15/151674211375082.webp"
-        },
-        {
-          "id": "1542951852",
-          "titulo": "Vendo IPhone 15",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/vendo-iphone-15-1542951852",
-          "preco": 3100,
-          "localizacao": "Joinville, Parque Guarani",
-          "data": "10 de out, 07:30",
-          "imagem": "https://img.olx.com.br/thumbs700x500/82/826674819808675.webp"
-        },
-        {
-          "id": "1540058775",
-          "titulo": "IPHONE 15 128G IMPECÁVEL",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-128g-impecavel-1540058775",
-          "preco": 3100,
-          "localizacao": "Joinville, Anita Garibaldi",
-          "data": "29 de set, 21:31",
-          "imagem": "https://img.olx.com.br/thumbs700x500/21/210697444778894.webp"
+          "id": "1544850958",
+          "titulo": "iPhone 15 128GB",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-128gb-1544850958",
+          "preco": 3099,
+          "localizacao": "Rio do Sul, Barragem",
+          "data": "Ontem, 18:48",
+          "imagem": "https://img.olx.com.br/thumbs700x500/16/169608693491929.webp"
         }
       ],
       "anunciosDescartadosPorPreco": [],
       "anunciosMaisAntigosQue30Dias": [
         {
-          "id": "1535800075",
-          "titulo": "iphone 15 128g",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-128g-1535800075",
-          "preco": 2500,
-          "localizacao": "Camboriú, Centro",
-          "data": "15 de set, 19:19",
-          "imagem": "https://img.olx.com.br/thumbs700x500/45/455659449294112.webp"
+          "id": "1536430893",
+          "titulo": "iPhone 15 128GB YELLOW",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-128gb-yellow-1536430893",
+          "preco": 2399,
+          "localizacao": "Balneário Camboriú, Centro",
+          "data": "17 de set, 13:50",
+          "imagem": "https://img.olx.com.br/thumbs700x500/73/733672086647591.webp"
+        },
+        {
+          "id": "1536370659",
+          "titulo": "iPhone 15 128gb",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-128gb-1536370659",
+          "preco": 2700,
+          "localizacao": "Itajaí, São Vicente",
+          "data": "17 de set, 11:44",
+          "imagem": "https://img.olx.com.br/thumbs700x500/96/960662323360502.webp"
         }
       ],
       "anunciosDataNaoReconhecida": []
@@ -442,20 +442,11 @@
     {
       "modelo": "iPhone 15 256GB",
       "url": "https://www.olx.com.br/celulares/apple/iphone-15/256gb/estado-sc/norte-de-santa-catarina?sp=1",
-      "totalAnuncios": 11,
-      "precoMinimo": 2550,
-      "precoMediano": 3199,
-      "precoMaximo": 3800,
+      "totalAnuncios": 12,
+      "precoMinimo": 3000,
+      "precoMediano": 3300,
+      "precoMaximo": 4200,
       "anuncios": [
-        {
-          "id": "1542299492",
-          "titulo": "iPhone 15 256gb // aceito proposta",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-256gb-aceito-proposta-1542299492",
-          "preco": 2550,
-          "localizacao": "Joinville, Paranaguamirim",
-          "data": "7 de out, 20:12",
-          "imagem": "https://img.olx.com.br/thumbs700x500/51/512682451954525.webp"
-        },
         {
           "id": "1541209741",
           "titulo": "iPhone 15 256gb",
@@ -529,6 +520,15 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/63/637659699239957.webp"
         },
         {
+          "id": "1544659434",
+          "titulo": "iPhone 15 256",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-256-1544659434",
+          "preco": 3500,
+          "localizacao": "Joinville, Anita Garibaldi",
+          "data": "Ontem, 07:36",
+          "imagem": "https://img.olx.com.br/thumbs700x500/47/477668811765120.webp"
+        },
+        {
           "id": "1536981884",
           "titulo": "Vendo IPhone 15",
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/vendo-iphone-15-1536981884",
@@ -545,17 +545,6 @@
           "localizacao": "Itajaí, Cidade Nova",
           "data": "11 de out, 12:56",
           "imagem": "https://img.olx.com.br/thumbs700x500/93/933612818262179.webp"
-        }
-      ],
-      "anunciosDescartadosPorPreco": [
-        {
-          "id": "1544108453",
-          "titulo": "iPhone 15 256GB - Muito bem conservado - Bateria 87%",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-256gb-muito-bem-conservado-bateria-87-1544108453",
-          "preco": 1885,
-          "localizacao": "Itajaí, Fazenda",
-          "data": "Ontem, 09:55",
-          "imagem": "https://img.olx.com.br/thumbs700x500/19/191605574790640.webp"
         },
         {
           "id": "1543303723",
@@ -567,17 +556,18 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/92/925696693151593.webp"
         }
       ],
-      "anunciosMaisAntigosQue30Dias": [
+      "anunciosDescartadosPorPreco": [
         {
-          "id": "1535640626",
-          "titulo": "IPhone 15 256gb Azul (100%)",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-256gb-azul-100-1535640626",
-          "preco": 3650,
-          "localizacao": "Brusque, Primeiro de Maio",
-          "data": "15 de set, 11:13",
-          "imagem": "https://img.olx.com.br/thumbs700x500/66/661699806658612.webp"
+          "id": "1544108453",
+          "titulo": "iPhone 15 256GB - Muito bem conservado - Bateria 87%",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-256gb-muito-bem-conservado-bateria-87-1544108453",
+          "preco": 1885,
+          "localizacao": "Itajaí, Fazenda",
+          "data": "14 de out, 09:55",
+          "imagem": "https://img.olx.com.br/thumbs700x500/19/191605574790640.webp"
         }
       ],
+      "anunciosMaisAntigosQue30Dias": [],
       "anunciosDataNaoReconhecida": []
     },
     {
@@ -585,7 +575,7 @@
       "url": "https://www.olx.com.br/celulares/128gb/estado-sc/norte-de-santa-catarina?q=iphone%2015%20pro&sp=1",
       "totalAnuncios": 18,
       "precoMinimo": 2300,
-      "precoMediano": 3549,
+      "precoMediano": 3499,
       "precoMaximo": 4000,
       "anuncios": [
         {
@@ -607,6 +597,15 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/60/605614325995217.webp"
         },
         {
+          "id": "1543982025",
+          "titulo": "IPHONE 15 PRO 128GB",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-128gb-1543982025",
+          "preco": 2790,
+          "localizacao": "Joinville, Paranaguamirim",
+          "data": "13 de out, 20:40",
+          "imagem": "https://img.olx.com.br/thumbs700x500/60/606689216777846.webp"
+        },
+        {
           "id": "1538954603",
           "titulo": "Aphone 15 pro",
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/aphone-15-pro-1538954603",
@@ -614,15 +613,6 @@
           "localizacao": "Itajaí, São Vicente",
           "data": "25 de set, 22:31",
           "imagem": "https://img.olx.com.br/thumbs700x500/65/650694444801595.webp"
-        },
-        {
-          "id": "1543982025",
-          "titulo": "IPHONE 15 PRO 128GB",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-128gb-1543982025",
-          "preco": 2890,
-          "localizacao": "Joinville, Paranaguamirim",
-          "data": "13 de out, 20:40",
-          "imagem": "https://img.olx.com.br/thumbs700x500/60/606689216777846.webp"
         },
         {
           "id": "1540382451",
@@ -639,14 +629,14 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-128gb-1544484696",
           "preco": 3200,
           "localizacao": "Blumenau, Itoupava Central",
-          "data": "Hoje, 16:26",
+          "data": "15 de out, 16:26",
           "imagem": "https://img.olx.com.br/thumbs700x500/97/975692576145097.webp"
         },
         {
           "id": "1542467609",
           "titulo": "iPhone 15 PRO",
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-1542467609",
-          "preco": 3300,
+          "preco": 3200,
           "localizacao": "Blumenau, Fortaleza",
           "data": "8 de out, 11:27",
           "imagem": "https://img.olx.com.br/thumbs700x500/70/704668333666167.webp"
@@ -666,17 +656,26 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-128gb-1544116821",
           "preco": 3499,
           "localizacao": "Balneário Camboriú, Centro",
-          "data": "Ontem, 10:27",
+          "data": "14 de out, 10:27",
           "imagem": "https://img.olx.com.br/thumbs700x500/63/639641451455477.webp"
         },
         {
           "id": "1543417176",
           "titulo": "iPhone 15 Pro",
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-1543417176",
-          "preco": 3599,
+          "preco": 3499,
           "localizacao": "Taió",
           "data": "11 de out, 19:49",
           "imagem": "https://img.olx.com.br/thumbs700x500/80/805637339961619.webp"
+        },
+        {
+          "id": "1544650069",
+          "titulo": "iPhone 15 pro",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-1544650069",
+          "preco": 3500,
+          "localizacao": "Balneário Camboriú, Municípios",
+          "data": "Ontem, 06:25",
+          "imagem": "https://img.olx.com.br/thumbs700x500/66/667666575695663.webp"
         },
         {
           "id": "1497434825",
@@ -684,7 +683,7 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-1497434825",
           "preco": 3600,
           "localizacao": "Itajaí, São Vicente",
-          "data": "21 de set, 12:36",
+          "data": "Hoje, 08:44",
           "imagem": "https://img.olx.com.br/thumbs700x500/93/934608157886194.webp"
         },
         {
@@ -695,15 +694,6 @@
           "localizacao": "Blumenau, Escola Agrícola",
           "data": "21 de set, 12:00",
           "imagem": "https://img.olx.com.br/thumbs700x500/72/723689801759706.webp"
-        },
-        {
-          "id": "1536084951",
-          "titulo": "iPhone 15 Pro 128GB",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-128gb-1536084951",
-          "preco": 3699,
-          "localizacao": "Joinville, Centro",
-          "data": "16 de set, 13:11",
-          "imagem": "https://img.olx.com.br/thumbs700x500/91/912635560576901.webp"
         },
         {
           "id": "1538742736",
@@ -752,23 +742,13 @@
         }
       ],
       "anunciosDescartadosPorPreco": [],
-      "anunciosMaisAntigosQue30Dias": [
-        {
-          "id": "1535835821",
-          "titulo": "Celular 15 pro completo",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/celular-15-pro-completo-1535835821",
-          "preco": 4000,
-          "localizacao": "Balneário Camboriú, Nações",
-          "data": "15 de set, 22:09",
-          "imagem": "https://img.olx.com.br/thumbs700x500/34/343654449507407.webp"
-        }
-      ],
+      "anunciosMaisAntigosQue30Dias": [],
       "anunciosDataNaoReconhecida": []
     },
     {
       "modelo": "iPhone 15 Pro 256GB",
       "url": "https://www.olx.com.br/celulares/256gb/estado-sc/norte-de-santa-catarina?q=iphone%2015%20pro&sp=1",
-      "totalAnuncios": 10,
+      "totalAnuncios": 9,
       "precoMinimo": 3000,
       "precoMediano": 3700,
       "precoMaximo": 4200,
@@ -815,7 +795,7 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/vende-iphone-15-pro-1544106148",
           "preco": 3700,
           "localizacao": "Itapema",
-          "data": "Ontem, 09:46",
+          "data": "14 de out, 09:46",
           "imagem": "https://img.olx.com.br/thumbs700x500/79/794667697013276.webp"
         },
         {
@@ -833,7 +813,7 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-256gb-baterial-100-1544119220",
           "preco": 3750,
           "localizacao": "Joinville, Adhemar Garcia",
-          "data": "Ontem, 10:35",
+          "data": "14 de out, 10:35",
           "imagem": "https://img.olx.com.br/thumbs700x500/94/946687331592028.webp"
         },
         {
@@ -846,15 +826,6 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/14/148641218396545.webp"
         },
         {
-          "id": "1536559862",
-          "titulo": "iPhone 15 Pro 256GB seminovo",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-256gb-seminovo-1536559862",
-          "preco": 3990,
-          "localizacao": "Blumenau, Itoupava Norte",
-          "data": "17 de set, 23:20",
-          "imagem": "https://img.olx.com.br/thumbs700x500/96/962644925943178.webp"
-        },
-        {
           "id": "1541216434",
           "titulo": "I PHONE 15 PRO 256GB",
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/i-phone-15-pro-256gb-1541216434",
@@ -865,17 +836,36 @@
         }
       ],
       "anunciosDescartadosPorPreco": [],
-      "anunciosMaisAntigosQue30Dias": [],
+      "anunciosMaisAntigosQue30Dias": [
+        {
+          "id": "1536559862",
+          "titulo": "iPhone 15 Pro 256GB seminovo",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-256gb-seminovo-1536559862",
+          "preco": 3990,
+          "localizacao": "Blumenau, Itoupava Norte",
+          "data": "17 de set, 23:20",
+          "imagem": "https://img.olx.com.br/thumbs700x500/96/962644925943178.webp"
+        }
+      ],
       "anunciosDataNaoReconhecida": []
     },
     {
       "modelo": "iPhone 15 Pro Max",
       "url": "https://www.olx.com.br/celulares/apple/iphone-15-pro-max/estado-sc/norte-de-santa-catarina?sp=1",
-      "totalAnuncios": 43,
-      "precoMinimo": 3350,
-      "precoMediano": 4100,
+      "totalAnuncios": 40,
+      "precoMinimo": 3200,
+      "precoMediano": 4050,
       "precoMaximo": 4499,
       "anuncios": [
+        {
+          "id": "1544536671",
+          "titulo": "iPhone 15 pro Max todo original ler anúncio",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-max-todo-original-ler-anuncio-1544536671",
+          "preco": 3200,
+          "localizacao": "Joinville, Jardim Iririú",
+          "data": "15 de out, 20:29",
+          "imagem": "https://img.olx.com.br/thumbs700x500/67/675652578365886.webp"
+        },
         {
           "id": "1542455965",
           "titulo": "iPhone 15 Pro Max",
@@ -886,13 +876,22 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/54/544614450032708.webp"
         },
         {
-          "id": "1544513550",
-          "titulo": "Iphone 15 pro Max 256GB Branco impecável",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-max-256gb-branco-impecavel-1544513550",
-          "preco": 3480,
-          "localizacao": "Brusque, Centro I",
-          "data": "Hoje, 18:34",
-          "imagem": "https://img.olx.com.br/thumbs700x500/64/647612697998927.webp"
+          "id": "1544882283",
+          "titulo": "-PROMO IPHONE 15 PRO MAX AZUL 256",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/promo-iphone-15-pro-max-azul-256-1544882283",
+          "preco": 3500,
+          "localizacao": "Balneário Camboriú, Estados",
+          "data": "Ontem, 21:23",
+          "imagem": "https://img.olx.com.br/thumbs700x500/53/538623936975146.webp"
+        },
+        {
+          "id": "1544665808",
+          "titulo": "Celular IPhone 15 Pro Max 256gb sem detalhes 85% bateria",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/celular-iphone-15-pro-max-256gb-sem-detalhes-85-bateria-1544665808",
+          "preco": 3500,
+          "localizacao": "Bombinhas",
+          "data": "Ontem, 08:24",
+          "imagem": "https://img.olx.com.br/thumbs700x500/50/506690453701157.webp"
         },
         {
           "id": "1542795637",
@@ -902,15 +901,6 @@
           "localizacao": "Barra Velha",
           "data": "9 de out, 13:37",
           "imagem": "https://img.olx.com.br/thumbs700x500/47/477695811216776.webp"
-        },
-        {
-          "id": "1536368595",
-          "titulo": "iPhone 15 Pro Max 256GB com caixa original!",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-max-256gb-com-caixa-original-1536368595",
-          "preco": 3590,
-          "localizacao": "Joinville, Centro",
-          "data": "17 de set, 11:38",
-          "imagem": "https://img.olx.com.br/thumbs700x500/23/232664450639893.webp"
         },
         {
           "id": "1539504384",
@@ -927,7 +917,7 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-max-1544315035",
           "preco": 3699,
           "localizacao": "Joinville, Nova Brasília",
-          "data": "Hoje, 00:32",
+          "data": "15 de out, 00:32",
           "imagem": "https://img.olx.com.br/thumbs700x500/67/674651219310440.webp"
         },
         {
@@ -936,7 +926,7 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-max-256g-1543221651",
           "preco": 3700,
           "localizacao": "Jaraguá do Sul, Vila Nova",
-          "data": "Hoje, 13:40",
+          "data": "15 de out, 13:40",
           "imagem": "https://img.olx.com.br/thumbs700x500/21/212608578478431.webp"
         },
         {
@@ -990,7 +980,7 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-max-256gb-natural-1544426627",
           "preco": 3899,
           "localizacao": "Balneário Camboriú, Centro",
-          "data": "Hoje, 12:31",
+          "data": "15 de out, 12:31",
           "imagem": "https://img.olx.com.br/thumbs700x500/15/150635697496225.webp"
         },
         {
@@ -1030,22 +1020,22 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/28/285662695315890.webp"
         },
         {
-          "id": "1538871673",
-          "titulo": "iPhone 15 Pro Max 256gb",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-max-256gb-1538871673",
-          "preco": 3950,
-          "localizacao": "Joinville, Santo Antônio",
-          "data": "25 de set, 15:46",
-          "imagem": "https://img.olx.com.br/thumbs700x500/65/657664562114827.webp"
-        },
-        {
           "id": "1544392349",
           "titulo": "Vendo iPhone 15 pro max 256GB",
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/vendo-iphone-15-pro-max-256gb-1544392349",
           "preco": 4000,
           "localizacao": "Blumenau, Velha Central",
-          "data": "Hoje, 10:26",
+          "data": "15 de out, 10:26",
           "imagem": "https://img.olx.com.br/thumbs700x500/65/650644331244962.webp"
+        },
+        {
+          "id": "1543199761",
+          "titulo": "iPhone 15 Pro Max 256gb",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-max-256gb-1543199761",
+          "preco": 4000,
+          "localizacao": "Penha",
+          "data": "10 de out, 20:45",
+          "imagem": "https://img.olx.com.br/thumbs700x500/68/687654577882370.webp"
         },
         {
           "id": "1543831863",
@@ -1064,15 +1054,6 @@
           "localizacao": "Joinville, Centro",
           "data": "10 de out, 23:45",
           "imagem": "https://img.olx.com.br/thumbs700x500/93/935610339787673.webp"
-        },
-        {
-          "id": "1543199761",
-          "titulo": "iPhone 15 Pro Max 256gb",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-max-256gb-1543199761",
-          "preco": 4100,
-          "localizacao": "Penha",
-          "data": "10 de out, 20:45",
-          "imagem": "https://img.olx.com.br/thumbs700x500/68/687654577882370.webp"
         },
         {
           "id": "1542005132",
@@ -1138,24 +1119,6 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/80/800636080149185.webp"
         },
         {
-          "id": "1536350296",
-          "titulo": "IPHONE 15 PRO MAX AZUL | PROMOÇÃO | 256g | BATERIA 85% | LOJA FÍSICA",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-max-azul-promocao-256g-bateria-85-loja-fisica-1536350296",
-          "preco": 4199,
-          "localizacao": "Joinville, Centro",
-          "data": "17 de set, 10:30",
-          "imagem": "https://img.olx.com.br/thumbs700x500/91/919698563346795.webp"
-        },
-        {
-          "id": "1541630074",
-          "titulo": "IPHONE 15 PRO MAX 256",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-max-256-1541630074",
-          "preco": 4200,
-          "localizacao": "Balneário Camboriú, Estados",
-          "data": "5 de out, 19:15",
-          "imagem": "https://img.olx.com.br/thumbs700x500/13/139667211232645.webp"
-        },
-        {
           "id": "1538742822",
           "titulo": "iPhone 15 Pro Max 256gb",
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-max-256gb-1538742822",
@@ -1190,6 +1153,15 @@
           "localizacao": "Balneário Camboriú, Vila Real",
           "data": "21 de set, 18:15",
           "imagem": "https://img.olx.com.br/thumbs700x500/90/902678082403697.webp"
+        },
+        {
+          "id": "1544540353",
+          "titulo": "Iphone 15 pro max",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-max-1544540353",
+          "preco": 4300,
+          "localizacao": "Itajaí, Cidade Nova",
+          "data": "15 de out, 20:50",
+          "imagem": "https://img.olx.com.br/thumbs700x500/33/330620338861143.webp"
         },
         {
           "id": "1539984544",
@@ -1237,6 +1209,36 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/21/211666205402088.webp"
         },
         {
+          "id": "1543683791",
+          "titulo": "iPhone 15 Pro Max 256gb BRANCO  titânio  bateria nova 100 % de eficiência",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-max-256gb-branco-titanio-bateria-nova-100-de-eficiencia-1543683791",
+          "preco": 4499,
+          "localizacao": "Balneário Camboriú, Centro",
+          "data": "12 de out, 20:18",
+          "imagem": "https://img.olx.com.br/thumbs700x500/40/400616573420862.webp"
+        }
+      ],
+      "anunciosDescartadosPorPreco": [],
+      "anunciosMaisAntigosQue30Dias": [
+        {
+          "id": "1536368595",
+          "titulo": "iPhone 15 Pro Max 256GB com caixa original!",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-max-256gb-com-caixa-original-1536368595",
+          "preco": 3590,
+          "localizacao": "Joinville, Centro",
+          "data": "17 de set, 11:38",
+          "imagem": "https://img.olx.com.br/thumbs700x500/23/232664450639893.webp"
+        },
+        {
+          "id": "1536350296",
+          "titulo": "IPHONE 15 PRO MAX AZUL | PROMOÇÃO | 256g | BATERIA 85% | LOJA FÍSICA",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-max-azul-promocao-256g-bateria-85-loja-fisica-1536350296",
+          "preco": 4199,
+          "localizacao": "Joinville, Centro",
+          "data": "17 de set, 10:30",
+          "imagem": "https://img.olx.com.br/thumbs700x500/91/919698563346795.webp"
+        },
+        {
           "id": "1536511756",
           "titulo": "iPhone 15 pro max 512gb azul",
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-max-512gb-azul-1536511756",
@@ -1253,27 +1255,6 @@
           "localizacao": "Jaraguá do Sul, Vila Lalau",
           "data": "17 de set, 11:22",
           "imagem": "https://img.olx.com.br/thumbs700x500/58/586613807395691.webp"
-        },
-        {
-          "id": "1543683791",
-          "titulo": "iPhone 15 Pro Max 256gb BRANCO  titânio  bateria nova 100 % de eficiência",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-max-256gb-branco-titanio-bateria-nova-100-de-eficiencia-1543683791",
-          "preco": 4499,
-          "localizacao": "Balneário Camboriú, Centro",
-          "data": "12 de out, 20:18",
-          "imagem": "https://img.olx.com.br/thumbs700x500/40/400616573420862.webp"
-        }
-      ],
-      "anunciosDescartadosPorPreco": [],
-      "anunciosMaisAntigosQue30Dias": [
-        {
-          "id": "1535833440",
-          "titulo": "iPhone 15 pro Max preto",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-max-preto-1535833440",
-          "preco": 4000,
-          "localizacao": "Gaspar, Bela Vista",
-          "data": "15 de set, 22:03",
-          "imagem": null
         }
       ],
       "anunciosDataNaoReconhecida": []
@@ -1281,7 +1262,7 @@
     {
       "modelo": "iPhone 16 128GB",
       "url": "https://www.olx.com.br/celulares/apple/iphone-16/128gb/estado-sc/norte-de-santa-catarina?sp=1",
-      "totalAnuncios": 32,
+      "totalAnuncios": 34,
       "precoMinimo": 3399,
       "precoMediano": 3850,
       "precoMaximo": 4599,
@@ -1305,12 +1286,21 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/50/500670441317436.webp"
         },
         {
+          "id": "1544791877",
+          "titulo": "iPhone 16",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-1544791877",
+          "preco": 3500,
+          "localizacao": "Joinville, Iririú",
+          "data": "Ontem, 14:35",
+          "imagem": "https://img.olx.com.br/thumbs700x500/12/126698811869673.webp"
+        },
+        {
           "id": "1544167756",
           "titulo": "iPhone 16 128 Gb Preto",
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-128-gb-preto-1544167756",
           "preco": 3500,
           "localizacao": "Blumenau, Velha",
-          "data": "Ontem, 13:34",
+          "data": "14 de out, 13:34",
           "imagem": "https://img.olx.com.br/thumbs700x500/64/646674212531550.webp"
         },
         {
@@ -1337,7 +1327,7 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-128gb-preto-1544024150",
           "preco": 3600,
           "localizacao": "Itajaí, Cordeiros",
-          "data": "Ontem, 01:12",
+          "data": "14 de out, 01:12",
           "imagem": "https://img.olx.com.br/thumbs700x500/76/762622457012655.webp"
         },
         {
@@ -1400,7 +1390,7 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-128gb-1544116257",
           "preco": 3799,
           "localizacao": "Balneário Camboriú, Centro",
-          "data": "Ontem, 10:25",
+          "data": "14 de out, 10:25",
           "imagem": "https://img.olx.com.br/thumbs700x500/70/706662217830470.webp"
         },
         {
@@ -1409,17 +1399,17 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-128gb-super-novo-91-saude-da-bateria-1544112237",
           "preco": 3799,
           "localizacao": "Itajaí, Cordeiros",
-          "data": "Ontem, 10:10",
+          "data": "14 de out, 10:10",
           "imagem": "https://img.olx.com.br/thumbs700x500/14/148636216218619.webp"
         },
         {
-          "id": "1544518473",
-          "titulo": "iPhone 16 128g com caixa e nota fiscal",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-128g-com-caixa-e-nota-fiscal-1544518473",
+          "id": "1544558642",
+          "titulo": "iPhone 16 pink",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pink-1544558642",
           "preco": 3800,
-          "localizacao": "Itajaí, Cidade Nova",
-          "data": "Hoje, 18:57",
-          "imagem": "https://img.olx.com.br/thumbs700x500/77/770672573118770.webp"
+          "localizacao": "Camboriú, Tabuleiro",
+          "data": "15 de out, 22:09",
+          "imagem": "https://img.olx.com.br/thumbs700x500/27/277623817701870.webp"
         },
         {
           "id": "1538939837",
@@ -1449,12 +1439,21 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/56/564651324753358.webp"
         },
         {
+          "id": "1542819363",
+          "titulo": "iPhone 16 a128GB preto",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-a128gb-preto-1542819363",
+          "preco": 3900,
+          "localizacao": "Joinville, Anita Garibaldi",
+          "data": "15 de out, 15:17",
+          "imagem": "https://img.olx.com.br/thumbs700x500/13/130609573208481.webp"
+        },
+        {
           "id": "1544156544",
           "titulo": "iPhone 16 128GB",
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-128gb-1544156544",
           "preco": 3900,
           "localizacao": "Joinville, Bom Retiro",
-          "data": "Ontem, 12:45",
+          "data": "14 de out, 12:45",
           "imagem": "https://img.olx.com.br/thumbs700x500/54/544618810229545.webp"
         },
         {
@@ -1485,13 +1484,13 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/10/104665937245416.webp"
         },
         {
-          "id": "1542819363",
-          "titulo": "iPhone 16 a128GB preto",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-a128gb-preto-1542819363",
+          "id": "1544761014",
+          "titulo": "iPhone 16 128gb",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-128gb-1544761014",
           "preco": 4000,
-          "localizacao": "Joinville, Anita Garibaldi",
-          "data": "Hoje, 15:17",
-          "imagem": "https://img.olx.com.br/thumbs700x500/13/130609573208481.webp"
+          "localizacao": "Joinville, Santo Antônio",
+          "data": "Ontem, 13:48",
+          "imagem": "https://img.olx.com.br/thumbs700x500/98/981633696347951.webp"
         },
         {
           "id": "1543976442",
@@ -1526,7 +1525,7 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-128gb-garantia-apple-1532103772",
           "preco": 4089,
           "localizacao": "Balneário Camboriú, Centro",
-          "data": "7 de out, 10:13",
+          "data": "Ontem, 20:15",
           "imagem": "https://img.olx.com.br/thumbs700x500/10/106635205512776.webp"
         },
         {
@@ -1576,25 +1575,15 @@
         }
       ],
       "anunciosDescartadosPorPreco": [],
-      "anunciosMaisAntigosQue30Dias": [
-        {
-          "id": "1535689666",
-          "titulo": "iPhone 16 128G",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-128g-1535689666",
-          "preco": 3970,
-          "localizacao": "Jaraguá do Sul, Ilha da Figueira",
-          "data": "15 de set, 14:29",
-          "imagem": "https://img.olx.com.br/thumbs700x500/52/525634806519128.webp"
-        }
-      ],
+      "anunciosMaisAntigosQue30Dias": [],
       "anunciosDataNaoReconhecida": []
     },
     {
       "modelo": "iPhone 16 256GB",
       "url": "https://www.olx.com.br/celulares/apple/iphone-16/256gb/estado-sc/norte-de-santa-catarina?sp=1",
-      "totalAnuncios": 8,
+      "totalAnuncios": 7,
       "precoMinimo": 3500,
-      "precoMediano": 4294,
+      "precoMediano": 4299,
       "precoMaximo": 4999,
       "anuncios": [
         {
@@ -1625,15 +1614,6 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/60/608635808617874.webp"
         },
         {
-          "id": "1540607631",
-          "titulo": "iPhone 16 256 Garantia Apple",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-256-garantia-apple-1540607631",
-          "preco": 4289,
-          "localizacao": "Balneário Camboriú, Centro",
-          "data": "Hoje, 20:01",
-          "imagem": "https://img.olx.com.br/thumbs700x500/20/207683093300981.webp"
-        },
-        {
           "id": "1542019914",
           "titulo": "IPHONE 16 256GB",
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-256gb-1542019914",
@@ -1648,7 +1628,7 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-branco-256-gb-1544183253",
           "preco": 4600,
           "localizacao": "Joinville, Glória",
-          "data": "Ontem, 14:31",
+          "data": "14 de out, 14:31",
           "imagem": "https://img.olx.com.br/thumbs700x500/94/943694454438545.webp"
         },
         {
@@ -1677,11 +1657,38 @@
     {
       "modelo": "iPhone 16 Pro 128GB",
       "url": "https://www.olx.com.br/celulares/apple/iphone-16-pro/128gb/estado-sc/norte-de-santa-catarina?sp=1",
-      "totalAnuncios": 12,
-      "precoMinimo": 4000,
-      "precoMediano": 4400,
+      "totalAnuncios": 15,
+      "precoMinimo": 2999,
+      "precoMediano": 4299,
       "precoMaximo": 4900,
       "anuncios": [
+        {
+          "id": "1539834618",
+          "titulo": "Iphone 16 Pro - Face ID OFF",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-face-id-off-1539834618",
+          "preco": 2999,
+          "localizacao": "São Bento do Sul, Brasília",
+          "data": "29 de set, 08:39",
+          "imagem": "https://img.olx.com.br/thumbs700x500/34/344669207403233.webp"
+        },
+        {
+          "id": "1542510904",
+          "titulo": "iPhone 16 Pro 128GB | Super Oportunidade | Preço de Desapego",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-128gb-super-oportunidade-preco-de-desapego-1542510904",
+          "preco": 3399,
+          "localizacao": "Balneário Camboriú, Centro",
+          "data": "8 de out, 14:35",
+          "imagem": "https://img.olx.com.br/thumbs700x500/96/962600217144201.webp"
+        },
+        {
+          "id": "1540732402",
+          "titulo": "iPhone 16 Pro 128GB Black, bateria 93%.",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-128gb-black-bateria-93-1540732402",
+          "preco": 4000,
+          "localizacao": "Itapema",
+          "data": "2 de out, 00:11",
+          "imagem": "https://img.olx.com.br/thumbs700x500/95/956672452140734.webp"
+        },
         {
           "id": "1539518942",
           "titulo": "iPhone 16 PRO",
@@ -1701,12 +1708,21 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/94/945644772022653.webp"
         },
         {
+          "id": "1544781317",
+          "titulo": "iPhone 16 pro",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-1544781317",
+          "preco": 4200,
+          "localizacao": "Joinville, Saguaçu",
+          "data": "Ontem, 13:58",
+          "imagem": "https://img.olx.com.br/thumbs700x500/62/623681816550072.webp"
+        },
+        {
           "id": "1544514790",
           "titulo": "Vendo IPhone 16 pro 128GB",
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/vendo-iphone-16-pro-128gb-1544514790",
           "preco": 4299,
           "localizacao": "Joinville, Costa e Silva",
-          "data": "Hoje, 18:39",
+          "data": "15 de out, 18:39",
           "imagem": "https://img.olx.com.br/thumbs700x500/55/558617692597677.webp"
         },
         {
@@ -1717,15 +1733,6 @@
           "localizacao": "Joinville, Costa e Silva",
           "data": "8 de out, 12:38",
           "imagem": "https://img.olx.com.br/thumbs700x500/83/833613570365480.webp"
-        },
-        {
-          "id": "1540732402",
-          "titulo": "iPhone 16 Pro 128GB Black, bateria 93%.",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-128gb-black-bateria-93-1540732402",
-          "preco": 4300,
-          "localizacao": "Itapema",
-          "data": "2 de out, 00:11",
-          "imagem": "https://img.olx.com.br/thumbs700x500/95/956672452140734.webp"
         },
         {
           "id": "1538564055",
@@ -1742,7 +1749,7 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-1544209879",
           "preco": 4500,
           "localizacao": "Rio dos Cedros",
-          "data": "Ontem, 16:10",
+          "data": "14 de out, 16:10",
           "imagem": "https://img.olx.com.br/thumbs700x500/58/581679693196022.webp"
         },
         {
@@ -1769,7 +1776,7 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-128gb-1544059371",
           "preco": 4700,
           "localizacao": "Joinville, Atiradores",
-          "data": "Ontem, 08:28",
+          "data": "14 de out, 08:28",
           "imagem": "https://img.olx.com.br/thumbs700x500/95/958648813781050.webp"
         },
         {
@@ -1791,26 +1798,7 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/85/850633578087009.webp"
         }
       ],
-      "anunciosDescartadosPorPreco": [
-        {
-          "id": "1539834618",
-          "titulo": "Iphone 16 Pro - Face ID OFF",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-face-id-off-1539834618",
-          "preco": 2999,
-          "localizacao": "São Bento do Sul, Brasília",
-          "data": "29 de set, 08:39",
-          "imagem": "https://img.olx.com.br/thumbs700x500/34/344669207403233.webp"
-        },
-        {
-          "id": "1542510904",
-          "titulo": "iPhone 16 Pro 128GB | Super Oportunidade | Preço de Desapego",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-128gb-super-oportunidade-preco-de-desapego-1542510904",
-          "preco": 3399,
-          "localizacao": "Balneário Camboriú, Centro",
-          "data": "8 de out, 14:35",
-          "imagem": "https://img.olx.com.br/thumbs700x500/96/962600217144201.webp"
-        }
-      ],
+      "anunciosDescartadosPorPreco": [],
       "anunciosMaisAntigosQue30Dias": [],
       "anunciosDataNaoReconhecida": []
     },
@@ -1837,16 +1825,16 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-256gb-1544119389",
           "preco": 4600,
           "localizacao": "Balneário Camboriú, Pioneiros",
-          "data": "Ontem, 10:36",
+          "data": "14 de out, 10:36",
           "imagem": "https://img.olx.com.br/thumbs700x500/53/535610814674780.webp"
         },
         {
           "id": "1544405910",
           "titulo": "iPhone 16 Pro 256 GB Gold",
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-256-gb-gold-1544405910",
-          "preco": 4790,
+          "preco": 4690,
           "localizacao": "Joinville, Glória",
-          "data": "Hoje, 11:16",
+          "data": "15 de out, 11:16",
           "imagem": "https://img.olx.com.br/thumbs700x500/31/319694811269117.webp"
         },
         {
@@ -1887,35 +1875,25 @@
         }
       ],
       "anunciosDescartadosPorPreco": [],
-      "anunciosMaisAntigosQue30Dias": [
-        {
-          "id": "1535674064",
-          "titulo": "iPhone 16 pro, saúde da bateria 92% e aparelho 100% original Apple nada trocado",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-saude-da-bateria-92-e-aparelho-100-original-apple-nada-trocado-1535674064",
-          "preco": 4860,
-          "localizacao": "Joinville, Rio Bonito (Pirabeiraba)",
-          "data": "15 de set, 13:25",
-          "imagem": "https://img.olx.com.br/thumbs700x500/32/329613085063520.webp"
-        }
-      ],
+      "anunciosMaisAntigosQue30Dias": [],
       "anunciosDataNaoReconhecida": []
     },
     {
       "modelo": "iPhone 16 Pro Max",
       "url": "https://www.olx.com.br/celulares/apple/iphone-16-pro-max/estado-sc/norte-de-santa-catarina?sp=1",
       "totalAnuncios": 41,
-      "precoMinimo": 4150,
-      "precoMediano": 5050,
+      "precoMinimo": 4000,
+      "precoMediano": 5000,
       "precoMaximo": 5500,
       "anuncios": [
         {
-          "id": "1544321773",
-          "titulo": "iPhone 16 pro Max 256gb",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-max-256gb-1544321773",
-          "preco": 4150,
-          "localizacao": "Itajaí, Cidade Nova",
-          "data": "Hoje, 02:00",
-          "imagem": "https://img.olx.com.br/thumbs700x500/47/473611576098764.webp"
+          "id": "1544914149",
+          "titulo": "iPhone 16 pro max 256 Gab",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-max-256-gab-1544914149",
+          "preco": 4000,
+          "localizacao": "Balneário Camboriú, Centro",
+          "data": "Ontem, 23:32",
+          "imagem": "https://img.olx.com.br/thumbs700x500/39/393600813009428.webp"
         },
         {
           "id": "1543118856",
@@ -1990,22 +1968,22 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/33/335699321122924.webp"
         },
         {
+          "id": "1544683522",
+          "titulo": "iPhone 16 pro max seminovo",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-max-seminovo-1544683522",
+          "preco": 4799,
+          "localizacao": "Itajaí, Vila Operária",
+          "data": "Ontem, 10:11",
+          "imagem": "https://img.olx.com.br/thumbs700x500/46/463664572550333.webp"
+        },
+        {
           "id": "1544409681",
           "titulo": "IPHONE 16 PRO MAX - MEGA PROMOÇÃO",
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-max-mega-promocao-1544409681",
           "preco": 4799,
           "localizacao": "Joinville, Centro",
-          "data": "Hoje, 11:27",
+          "data": "15 de out, 11:27",
           "imagem": "https://img.olx.com.br/thumbs700x500/19/199647931069949.webp"
-        },
-        {
-          "id": "1542395173",
-          "titulo": "iPhone 16 PRO MAX",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-max-1542395173",
-          "preco": 4800,
-          "localizacao": "Joinville, Boehmerwald",
-          "data": "8 de out, 06:55",
-          "imagem": "https://img.olx.com.br/thumbs700x500/44/448620572579626.webp"
         },
         {
           "id": "1541990955",
@@ -2031,7 +2009,7 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-max-1544287698",
           "preco": 4850,
           "localizacao": "Blumenau, Salto do Norte",
-          "data": "Ontem, 22:09",
+          "data": "14 de out, 22:09",
           "imagem": "https://img.olx.com.br/thumbs700x500/58/589680458689219.webp"
         },
         {
@@ -2040,7 +2018,7 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-max-256gb-branco-1544427172",
           "preco": 4899,
           "localizacao": "Balneário Camboriú, Centro",
-          "data": "Hoje, 12:33",
+          "data": "15 de out, 12:33",
           "imagem": "https://img.olx.com.br/thumbs700x500/74/745686331652951.webp"
         },
         {
@@ -2053,6 +2031,15 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/73/733617334525722.webp"
         },
         {
+          "id": "1544956185",
+          "titulo": "VENDO IPHONE 16 PRO MAX 256gb",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/vendo-iphone-16-pro-max-256gb-1544956185",
+          "preco": 4999,
+          "localizacao": "Joinville, Itaum",
+          "data": "Hoje, 08:08",
+          "imagem": "https://img.olx.com.br/thumbs700x500/23/233692458070419.webp"
+        },
+        {
           "id": "1543788142",
           "titulo": "IPHONE 16 PRO MAX - LOJA FÍSICA - OFERTA",
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-max-loja-fisica-oferta-1543788142",
@@ -2062,21 +2049,12 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/72/726655818529284.webp"
         },
         {
-          "id": "1544408339",
-          "titulo": "iPhone 16 pro Max 256gb",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-max-256gb-1544408339",
-          "preco": 5000,
-          "localizacao": "Porto Belo",
-          "data": "Hoje, 11:26",
-          "imagem": "https://img.olx.com.br/thumbs700x500/65/654657696072132.webp"
-        },
-        {
           "id": "1544324733",
           "titulo": "Iphone 16 pro max",
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-max-1544324733",
           "preco": 5000,
           "localizacao": "Jaraguá do Sul, Vieira",
-          "data": "Hoje, 02:33",
+          "data": "15 de out, 02:33",
           "imagem": "https://img.olx.com.br/thumbs700x500/12/129620332169327.webp"
         },
         {
@@ -2089,13 +2067,13 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/77/776644334797370.webp"
         },
         {
-          "id": "1541776605",
-          "titulo": "iPhone 16 Pro Max 256gb | TODO ORIGINAL",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-max-256gb-todo-original-1541776605",
-          "preco": 5050,
-          "localizacao": "Joinville, Fátima",
-          "data": "6 de out, 08:55",
-          "imagem": "https://img.olx.com.br/thumbs700x500/16/165630574382023.webp"
+          "id": "1540731935",
+          "titulo": "iPhone 16 Pro Max 512GB Dourado - bateria 91%",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-max-512gb-dourado-bateria-91-1540731935",
+          "preco": 5000,
+          "localizacao": "Itapema",
+          "data": "2 de out, 00:05",
+          "imagem": "https://img.olx.com.br/thumbs700x500/55/557680696879532.webp"
         },
         {
           "id": "1544003156",
@@ -2121,7 +2099,7 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-max-256gb-impecavel-1544071396",
           "preco": 5150,
           "localizacao": "Joinville, Fátima",
-          "data": "Ontem, 09:17",
+          "data": "14 de out, 09:17",
           "imagem": "https://img.olx.com.br/thumbs700x500/79/798681333855324.webp"
         },
         {
@@ -2130,8 +2108,17 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-max-256gb-seminovo-1514441820",
           "preco": 5189,
           "localizacao": "Balneário Camboriú, Centro",
-          "data": "9 de out, 18:06",
+          "data": "Ontem, 21:23",
           "imagem": "https://img.olx.com.br/thumbs700x500/14/148629410803566.webp"
+        },
+        {
+          "id": "1544942833",
+          "titulo": "iPhone 16 Pro Max 256Gb",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-max-256gb-1544942833",
+          "preco": 5200,
+          "localizacao": "Itajaí, Praia Brava de Itajaí",
+          "data": "Hoje, 06:03",
+          "imagem": "https://img.olx.com.br/thumbs700x500/66/661615452492673.webp"
         },
         {
           "id": "1542475989",
@@ -2170,15 +2157,6 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/91/916655455216941.webp"
         },
         {
-          "id": "1542766453",
-          "titulo": "Vendo iphone 16 pro max 256g",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/vendo-iphone-16-pro-max-256g-1542766453",
-          "preco": 5299,
-          "localizacao": "Joinville, Saguaçu",
-          "data": "9 de out, 11:35",
-          "imagem": "https://img.olx.com.br/thumbs700x500/99/991640938259379.webp"
-        },
-        {
           "id": "1536952780",
           "titulo": "iPhone 16 Pro Max 256GB Titânio Natural - Bateria 92% - Perfeito Estado",
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-max-256gb-titanio-natural-bateria-92-perfeito-estado-1536952780",
@@ -2197,21 +2175,12 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/58/588675570201395.webp"
         },
         {
-          "id": "1540731935",
-          "titulo": "iPhone 16 Pro Max 512GB Dourado - bateria 91%",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-max-512gb-dourado-bateria-91-1540731935",
-          "preco": 5390,
-          "localizacao": "Itapema",
-          "data": "2 de out, 00:05",
-          "imagem": "https://img.olx.com.br/thumbs700x500/55/557680696879532.webp"
-        },
-        {
           "id": "1544057694",
           "titulo": "VENDO iPhone 16 Pro Max 256GB - IMPECÁVEL!",
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/vendo-iphone-16-pro-max-256gb-impecavel-1544057694",
           "preco": 5400,
           "localizacao": "Barra Velha",
-          "data": "Ontem, 08:18",
+          "data": "14 de out, 08:18",
           "imagem": "https://img.olx.com.br/thumbs700x500/99/990692811321789.webp"
         },
         {
@@ -2256,7 +2225,7 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-max-256gb-1544087608",
           "preco": 5500,
           "localizacao": "Timbó, Imigrantes",
-          "data": "Ontem, 09:20",
+          "data": "14 de out, 09:20",
           "imagem": "https://img.olx.com.br/thumbs700x500/58/585643454520411.webp"
         },
         {
@@ -2276,6 +2245,15 @@
           "localizacao": "Camboriú, São Francisco de Assis",
           "data": "28 de set, 15:43",
           "imagem": "https://img.olx.com.br/thumbs700x500/17/171621681725781.webp"
+        },
+        {
+          "id": "1539059051",
+          "titulo": "iphone 16 Pro Max - Titânio Natural Impecável",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-max-titanio-natural-impecavel-1539059051",
+          "preco": 5500,
+          "localizacao": "Joinville, Nova Brasília",
+          "data": "26 de set, 11:57",
+          "imagem": "https://img.olx.com.br/thumbs700x500/39/398609320649789.webp"
         }
       ],
       "anunciosDescartadosPorPreco": [
@@ -2300,15 +2278,6 @@
       ],
       "anunciosMaisAntigosQue30Dias": [
         {
-          "id": "1535634841",
-          "titulo": "iPhone 16 Pro Max 256gb",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-max-256gb-1535634841",
-          "preco": 4780,
-          "localizacao": "Balneário Camboriú, Estados",
-          "data": "15 de set, 10:57",
-          "imagem": "https://img.olx.com.br/thumbs700x500/89/893601682592623.webp"
-        },
-        {
           "id": "1535846817",
           "titulo": "iPhone 16 Pro Max 256gb",
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-max-256gb-1535846817",
@@ -2318,13 +2287,13 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/77/777683683071999.webp"
         },
         {
-          "id": "1535638815",
-          "titulo": "iPhone 16 pro max 256gb",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-max-256gb-1535638815",
-          "preco": 5499,
-          "localizacao": "Brusque, Primeiro de Maio",
-          "data": "15 de set, 11:08",
-          "imagem": "https://img.olx.com.br/thumbs700x500/17/170671804998099.webp"
+          "id": "1535817137",
+          "titulo": "iPhone 16 pro max 512gb",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-max-512gb-1535817137",
+          "preco": 5500,
+          "localizacao": "Brusque, Azambuja",
+          "data": "15 de set, 20:41",
+          "imagem": "https://img.olx.com.br/thumbs700x500/91/910686801435641.webp"
         }
       ],
       "anunciosDataNaoReconhecida": []
@@ -2333,10 +2302,19 @@
       "modelo": "iPhone 17",
       "url": "https://www.olx.com.br/celulares/apple/iphone-17/256gb/estado-sc/norte-de-santa-catarina?q=iphone%2017&sp=1",
       "totalAnuncios": 19,
-      "precoMinimo": 4000,
+      "precoMinimo": 3999,
       "precoMediano": 5200,
       "precoMaximo": 5799,
       "anuncios": [
+        {
+          "id": "1544156858",
+          "titulo": "IPHONE 17 NORMAL 256gb / SEMI NOVO",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-normal-256gb-semi-novo-1544156858",
+          "preco": 3999,
+          "localizacao": "Blumenau, Itoupava Central",
+          "data": "14 de out, 12:46",
+          "imagem": "https://img.olx.com.br/thumbs700x500/14/142618814611413.webp"
+        },
         {
           "id": "1535225792",
           "titulo": "iPhone 17 256azul na garantia - conector com oxidação e deve acionar garantia (até deze)",
@@ -2347,13 +2325,13 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/79/799634203904672.webp"
         },
         {
-          "id": "1542590771",
+          "id": "1544955232",
           "titulo": "iPhone 17",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-1542590771",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-1544955232",
           "preco": 4100,
           "localizacao": "Itapema",
-          "data": "8 de out, 20:15",
-          "imagem": "https://img.olx.com.br/thumbs700x500/59/598695452502685.webp"
+          "data": "Hoje, 07:58",
+          "imagem": "https://img.olx.com.br/thumbs700x500/65/652602690352916.webp"
         },
         {
           "id": "1544139697",
@@ -2361,17 +2339,8 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/oportunidade-iphone-17-1544139697",
           "preco": 4390,
           "localizacao": "Joinville, Costa e Silva",
-          "data": "Ontem, 11:48",
+          "data": "14 de out, 11:48",
           "imagem": "https://img.olx.com.br/thumbs700x500/24/246666454018725.webp"
-        },
-        {
-          "id": "1544156858",
-          "titulo": "IPHONE 17 NORMAL 256gb / SEMI NOVO",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-normal-256gb-semi-novo-1544156858",
-          "preco": 4400,
-          "localizacao": "Blumenau, Itoupava Central",
-          "data": "Ontem, 12:46",
-          "imagem": "https://img.olx.com.br/thumbs700x500/14/142618814611413.webp"
         },
         {
           "id": "1539084567",
@@ -2478,7 +2447,7 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-256gb-lacrado-1544410185",
           "preco": 5590,
           "localizacao": "Joinville, Centro",
-          "data": "Hoje, 11:30",
+          "data": "15 de out, 11:30",
           "imagem": "https://img.olx.com.br/thumbs700x500/82/828684339274197.webp"
         },
         {
@@ -2516,9 +2485,9 @@
     {
       "modelo": "iPhone 17 Pro",
       "url": "https://www.olx.com.br/celulares/apple/iphone-17-pro/256gb/estado-sc/norte-de-santa-catarina?q=iphone%2017&sp=1",
-      "totalAnuncios": 18,
+      "totalAnuncios": 21,
       "precoMinimo": 6000,
-      "precoMediano": 6545,
+      "precoMediano": 7000,
       "precoMaximo": 7800,
       "anuncios": [
         {
@@ -2568,21 +2537,12 @@
         },
         {
           "id": "1543198878",
-          "titulo": "iPhone 17 pro 246gb- garantia Apple",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-pro-246gb-garantia-apple-1543198878",
-          "preco": 6470,
+          "titulo": "iPhone 17 pro 246gb- garantia Apple junho 2027",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-pro-246gb-garantia-apple-junho-2027-1543198878",
+          "preco": 6480,
           "localizacao": "Joinville, Vila Nova",
           "data": "10 de out, 20:38",
-          "imagem": "https://img.olx.com.br/thumbs700x500/81/816681812757868.webp"
-        },
-        {
-          "id": "1543198388",
-          "titulo": "iPhone 17 pro 256gb- garantia Apple",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-pro-256gb-garantia-apple-1543198388",
-          "preco": 6470,
-          "localizacao": "Joinville, Vila Nova",
-          "data": "10 de out, 20:35",
-          "imagem": "https://img.olx.com.br/thumbs700x500/29/296690577413679.webp"
+          "imagem": "https://img.olx.com.br/thumbs700x500/17/173698456984109.webp"
         },
         {
           "id": "1543841032",
@@ -2657,6 +2617,15 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/75/750624540761780.webp"
         },
         {
+          "id": "1544790006",
+          "titulo": "IPHONE 17 PRO",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-pro-1544790006",
+          "preco": 7159,
+          "localizacao": "Joinville, Iririú",
+          "data": "Ontem, 14:26",
+          "imagem": "https://img.olx.com.br/thumbs700x500/50/504665211333469.webp"
+        },
+        {
           "id": "1543811805",
           "titulo": "iPhone 17 Pro novo, lacrado na caixa.1 ano de garantia após ativação!",
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-pro-novo-lacrado-na-caixa-1-ano-de-garantia-apos-ativacao-1543811805",
@@ -2666,6 +2635,15 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/89/894680570643041.webp"
         },
         {
+          "id": "1544783423",
+          "titulo": "Iphone 17 Pro",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-pro-1544783423",
+          "preco": 7300,
+          "localizacao": "Jaraguá do Sul, Vieira",
+          "data": "Ontem, 14:06",
+          "imagem": "https://img.olx.com.br/thumbs700x500/50/501611456657693.webp"
+        },
+        {
           "id": "1542721636",
           "titulo": "iPhone 17 Pro 256GB Cosmic Orange - novo na caixa",
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-pro-256gb-cosmic-orange-novo-na-caixa-1542721636",
@@ -2673,6 +2651,24 @@
           "localizacao": "Joinville, Saguaçu",
           "data": "9 de out, 10:17",
           "imagem": "https://img.olx.com.br/thumbs700x500/79/790622574503193.webp"
+        },
+        {
+          "id": "1544812745",
+          "titulo": "IPHONE 17 PRO",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-pro-1544812745",
+          "preco": 7459,
+          "localizacao": "Joinville, Bom Retiro",
+          "data": "Ontem, 15:56",
+          "imagem": "https://img.olx.com.br/thumbs700x500/66/660691811596645.webp"
+        },
+        {
+          "id": "1544539115",
+          "titulo": "iPhone 17 pro 256gb",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-pro-256gb-1544539115",
+          "preco": 7490,
+          "localizacao": "Blumenau, Vila Nova",
+          "data": "15 de out, 20:42",
+          "imagem": "https://img.olx.com.br/thumbs700x500/36/369632450240376.webp"
         },
         {
           "id": "1542106058",
@@ -2693,8 +2689,8 @@
       "url": "https://www.olx.com.br/celulares/apple/iphone-17-pro-max/256gb/estado-sc/norte-de-santa-catarina?q=iphone%2017&sp=1",
       "totalAnuncios": 48,
       "precoMinimo": 5900,
-      "precoMediano": 6990,
-      "precoMaximo": 7570,
+      "precoMediano": 6983,
+      "precoMaximo": 7500,
       "anuncios": [
         {
           "id": "1538215254",
@@ -2711,7 +2707,7 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-pro-max-promocao-1544408943",
           "preco": 6290,
           "localizacao": "Joinville, Centro",
-          "data": "Hoje, 11:25",
+          "data": "15 de out, 11:25",
           "imagem": "https://img.olx.com.br/thumbs700x500/32/327673335536875.webp"
         },
         {
@@ -2783,7 +2779,7 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-pro-max-256gb-garantia-apple-1544469678",
           "preco": 6590,
           "localizacao": "Balneário Camboriú, Centro",
-          "data": "Hoje, 15:29",
+          "data": "15 de out, 15:29",
           "imagem": "https://img.olx.com.br/thumbs700x500/39/399643573004046.webp"
         },
         {
@@ -2792,7 +2788,7 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-pro-max-256gb-laranja-1544425408",
           "preco": 6599,
           "localizacao": "Balneário Camboriú, Centro",
-          "data": "Hoje, 12:26",
+          "data": "15 de out, 12:26",
           "imagem": "https://img.olx.com.br/thumbs700x500/44/441654338293565.webp"
         },
         {
@@ -2801,8 +2797,35 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-pro-max-256gb-1544488995",
           "preco": 6600,
           "localizacao": "Blumenau, Água Verde",
-          "data": "Hoje, 16:42",
+          "data": "15 de out, 16:42",
           "imagem": "https://img.olx.com.br/thumbs700x500/60/608626930325389.webp"
+        },
+        {
+          "id": "1544777110",
+          "titulo": "iPhone 17 Pro Max 256gb BRANCO, TODO original! Bat 100%! Garantia Apple até 2027",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-pro-max-256gb-branco-todo-original-bat-100-garantia-apple-ate-2027-1544777110",
+          "preco": 6699,
+          "localizacao": "Balneário Camboriú, Centro",
+          "data": "Ontem, 13:38",
+          "imagem": "https://img.olx.com.br/thumbs700x500/10/107633219310378.webp"
+        },
+        {
+          "id": "1544573286",
+          "titulo": "iPhone 17 pro max 256GB",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-pro-max-256gb-1544573286",
+          "preco": 6700,
+          "localizacao": "Itajaí, São Vicente",
+          "data": "15 de out, 23:27",
+          "imagem": "https://img.olx.com.br/thumbs700x500/62/628616334057381.webp"
+        },
+        {
+          "id": "1543571504",
+          "titulo": "iPhone 17 Pro Max 256GB",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-pro-max-256gb-1543571504",
+          "preco": 6700,
+          "localizacao": "Balneário Camboriú, Centro",
+          "data": "12 de out, 13:33",
+          "imagem": "https://img.olx.com.br/thumbs700x500/75/756608939894530.webp"
         },
         {
           "id": "1541226285",
@@ -2819,7 +2842,7 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-pro-max-256gb-1544489817",
           "preco": 6800,
           "localizacao": "Blumenau, Água Verde",
-          "data": "Hoje, 16:46",
+          "data": "15 de out, 16:46",
           "imagem": "https://img.olx.com.br/thumbs700x500/68/689657333230092.webp"
         },
         {
@@ -2931,15 +2954,6 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/56/569624320654693.webp"
         },
         {
-          "id": "1543571504",
-          "titulo": "iPhone 17 Pro Max 256GB",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-pro-max-256gb-1543571504",
-          "preco": 6999,
-          "localizacao": "Balneário Camboriú, Centro",
-          "data": "12 de out, 13:33",
-          "imagem": "https://img.olx.com.br/thumbs700x500/75/756608939894530.webp"
-        },
-        {
           "id": "1537072096",
           "titulo": "iPhone 17 pro Max 256gb R$6.999",
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-pro-max-256gb-r-6-999-1537072096",
@@ -2949,6 +2963,24 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/39/398635920517768.webp"
         },
         {
+          "id": "1544919203",
+          "titulo": "iPhone 17 pro max",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-pro-max-1544919203",
+          "preco": 7000,
+          "localizacao": "Itajaí, Cordeiros",
+          "data": "Hoje, 00:15",
+          "imagem": "https://img.olx.com.br/thumbs700x500/16/168648333005964.webp"
+        },
+        {
+          "id": "1544019066",
+          "titulo": "iPhone 17 Pro Max 256 Laranja",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-pro-max-256-laranja-1544019066",
+          "preco": 7000,
+          "localizacao": "Blumenau, Itoupava Norte",
+          "data": "14 de out, 00:07",
+          "imagem": "https://img.olx.com.br/thumbs700x500/57/570620577789652.webp"
+        },
+        {
           "id": "1543686152",
           "titulo": "Iphone 17 pro max 256gb",
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-pro-max-256gb-1543686152",
@@ -2956,6 +2988,15 @@
           "localizacao": "Joinville, Bom Retiro",
           "data": "12 de out, 20:35",
           "imagem": "https://img.olx.com.br/thumbs700x500/76/761697819974821.webp"
+        },
+        {
+          "id": "1544713119",
+          "titulo": "iPhone 17 pro max",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-pro-max-1544713119",
+          "preco": 7100,
+          "localizacao": "Balneário Camboriú, Centro",
+          "data": "Ontem, 10:46",
+          "imagem": "https://img.olx.com.br/thumbs700x500/32/323697093605035.webp"
         },
         {
           "id": "1541837842",
@@ -3008,8 +3049,17 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-pro-max-lacrado-loja-joinville-1507545039",
           "preco": 7298,
           "localizacao": "Joinville, Centro",
-          "data": "Hoje, 12:10",
+          "data": "Ontem, 12:10",
           "imagem": "https://img.olx.com.br/thumbs700x500/26/269690772873520.webp"
+        },
+        {
+          "id": "1544019242",
+          "titulo": "iPhone 17 Pro Max 256 Azul",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-pro-max-256-azul-1544019242",
+          "preco": 7300,
+          "localizacao": "Blumenau, Itoupava Norte",
+          "data": "14 de out, 00:09",
+          "imagem": "https://img.olx.com.br/thumbs700x500/91/910696336173340.webp"
         },
         {
           "id": "1538551097",
@@ -3057,24 +3107,6 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/94/944602338119560.webp"
         },
         {
-          "id": "1544019242",
-          "titulo": "iPhone 17 Pro Max 256 Azul",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-pro-max-256-azul-1544019242",
-          "preco": 7500,
-          "localizacao": "Blumenau, Itoupava Norte",
-          "data": "Ontem, 00:09",
-          "imagem": "https://img.olx.com.br/thumbs700x500/91/910696336173340.webp"
-        },
-        {
-          "id": "1544019066",
-          "titulo": "iPhone 17 Pro Max 256 Laranja",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-pro-max-256-laranja-1544019066",
-          "preco": 7500,
-          "localizacao": "Blumenau, Itoupava Norte",
-          "data": "Ontem, 00:07",
-          "imagem": "https://img.olx.com.br/thumbs700x500/57/570620577789652.webp"
-        },
-        {
           "id": "1540518847",
           "titulo": "iPhone 17 pro max 256 gb",
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-pro-max-256-gb-1540518847",
@@ -3091,42 +3123,6 @@
           "localizacao": "Corupá, Seminário",
           "data": "27 de set, 10:23",
           "imagem": "https://img.olx.com.br/thumbs700x500/80/801678689473356.webp"
-        },
-        {
-          "id": "1538457445",
-          "titulo": "iPhone 17 pro max 256 G Azul",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-pro-max-256-g-azul-1538457445",
-          "preco": 7500,
-          "localizacao": "Balneário Camboriú, Pioneiros",
-          "data": "24 de set, 12:08",
-          "imagem": "https://img.olx.com.br/thumbs700x500/17/174685449908692.webp"
-        },
-        {
-          "id": "1537998652",
-          "titulo": "Iphones 17 Pro Max LACRADOS NA CAIXA",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphones-17-pro-max-lacrados-na-caixa-1537998652",
-          "preco": 7500,
-          "localizacao": "Camboriú, Tabuleiro",
-          "data": "22 de set, 20:04",
-          "imagem": "https://img.olx.com.br/thumbs700x500/71/711646920247018.webp"
-        },
-        {
-          "id": "1543669605",
-          "titulo": "iPhone 17 pro max silver 256GB",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-pro-max-silver-256gb-1543669605",
-          "preco": 7550,
-          "localizacao": "Araquari",
-          "data": "12 de out, 18:48",
-          "imagem": "https://img.olx.com.br/thumbs700x500/87/870643456802795.webp"
-        },
-        {
-          "id": "1541017567",
-          "titulo": "iPhone 17 pro max 256gb (início de uso em agosto)",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-pro-max-256gb-inicio-de-uso-em-agosto-1541017567",
-          "preco": 7570,
-          "localizacao": "Balneário Camboriú, Centro",
-          "data": "3 de out, 04:59",
-          "imagem": "https://img.olx.com.br/thumbs700x500/59/599697694911748.webp"
         }
       ],
       "anunciosDescartadosPorPreco": [
