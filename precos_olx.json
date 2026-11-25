@@ -1,15 +1,24 @@
 {
-  "atualizadoEm": "2026-11-24T12:22:22.298Z",
+  "atualizadoEm": "2026-11-25T12:16:22.959Z",
   "totalBuscas": 13,
   "resultados": [
     {
       "modelo": "iPhone 15 128GB",
       "url": "https://www.olx.com.br/celulares/apple/iphone-15/128gb/estado-sc/norte-de-santa-catarina?sp=1",
-      "totalAnuncios": 46,
-      "precoMinimo": 2200,
+      "totalAnuncios": 45,
+      "precoMinimo": 2000,
       "precoMediano": 2599,
       "precoMaximo": 2700,
       "anuncios": [
+        {
+          "id": "1553770313",
+          "titulo": "iPhone 15 rosa",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-rosa-1553770313",
+          "preco": 2000,
+          "localizacao": "Itajaí, Ressacada",
+          "data": "17 de nov, 16:28",
+          "imagem": "https://img.olx.com.br/thumbs700x500/79/797651949409307.webp"
+        },
         {
           "id": "1554705056",
           "titulo": "iPhone 15 black 128 GB",
@@ -74,13 +83,13 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/50/503638463712951.webp"
         },
         {
-          "id": "1555320193",
-          "titulo": "iphone 15 seminovo. Ler anúncio!",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-seminovo-ler-anuncio-1555320193",
+          "id": "1552082415",
+          "titulo": "iPhone 15",
+          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-15-1552082415",
           "preco": 2399,
-          "localizacao": "Itajaí, Vila Operária",
-          "data": "Ontem, 13:50",
-          "imagem": "https://img.olx.com.br/thumbs700x500/63/635614582468865.webp"
+          "localizacao": "Tubarão, Dehon",
+          "data": "11 de nov, 15:06",
+          "imagem": "https://img.olx.com.br/thumbs700x500/76/766630823595436.webp"
         },
         {
           "id": "1551900205",
@@ -108,6 +117,15 @@
           "localizacao": "Balneário Camboriú, Municípios",
           "data": "16 de nov, 09:36",
           "imagem": "https://img.olx.com.br/thumbs700x500/85/857650222862187.webp"
+        },
+        {
+          "id": "1548865493",
+          "titulo": "iPhone 15 128GB original!",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-128gb-original-1548865493",
+          "preco": 2499,
+          "localizacao": "Joinville, Centro",
+          "data": "30 de out, 12:01",
+          "imagem": "https://img.olx.com.br/thumbs700x500/32/324675226489562.webp"
         },
         {
           "id": "1553190741",
@@ -200,15 +218,6 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/33/335626703547562.webp"
         },
         {
-          "id": "1552082415",
-          "titulo": "iPhone 15",
-          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-15-1552082415",
-          "preco": 2599,
-          "localizacao": "Tubarão, Dehon",
-          "data": "11 de nov, 15:06",
-          "imagem": "https://img.olx.com.br/thumbs700x500/76/766630823595436.webp"
-        },
-        {
           "id": "1550062415",
           "titulo": "iPhone 15 128 muito bem cuidado todo original",
           "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-15-128-muito-bem-cuidado-todo-original-1550062415",
@@ -225,15 +234,6 @@
           "localizacao": "São José, Areias",
           "data": "3 de nov, 12:20",
           "imagem": "https://img.olx.com.br/thumbs700x500/46/466669828130351.webp"
-        },
-        {
-          "id": "1554741855",
-          "titulo": "IPHONE 15 128g",
-          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-15-128g-1554741855",
-          "preco": 2600,
-          "localizacao": "Florianópolis, Ribeirão da Ilha",
-          "data": "20 de nov, 20:09",
-          "imagem": "https://img.olx.com.br/thumbs700x500/40/406668463884769.webp"
         },
         {
           "id": "1553640940",
@@ -281,6 +281,15 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/97/973664462632397.webp"
         },
         {
+          "id": "1555593947",
+          "titulo": "iPhone 15 Azul 128GB - Único Dono",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-azul-128gb-unico-dono-1555593947",
+          "preco": 2650,
+          "localizacao": "Joinville, Glória",
+          "data": "Ontem, 13:05",
+          "imagem": "https://img.olx.com.br/thumbs700x500/47/477682580491576.webp"
+        },
+        {
           "id": "1553652017",
           "titulo": "IPhone 15 Original 128Gb - 79% de Saúde da Bateria",
           "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-15-original-128gb-79-de-saude-da-bateria-1553652017",
@@ -317,15 +326,6 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/68/688671585494515.webp"
         },
         {
-          "id": "1548865493",
-          "titulo": "iPhone 15 128GB original!",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-128gb-original-1548865493",
-          "preco": 2690,
-          "localizacao": "Joinville, Centro",
-          "data": "30 de out, 12:01",
-          "imagem": "https://img.olx.com.br/thumbs700x500/32/324675226489562.webp"
-        },
-        {
           "id": "1549456286",
           "titulo": "iPhone 15",
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-1549456286",
@@ -353,12 +353,21 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/92/928601102147213.webp"
         },
         {
+          "id": "1548055791",
+          "titulo": "iPhone 15 128gb Rosa - Muito lindo!! Bateria 90% todo original",
+          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-15-128gb-rosa-muito-lindo-bateria-90-todo-original-1548055791",
+          "preco": 2699,
+          "localizacao": "Florianópolis, Coqueiros",
+          "data": "27 de out, 19:04",
+          "imagem": "https://img.olx.com.br/thumbs700x500/48/488608450602406.webp"
+        },
+        {
           "id": "1555438991",
           "titulo": "Iphone 15",
           "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-15-1555438991",
           "preco": 2700,
           "localizacao": "Criciúma, Ana Maria",
-          "data": "Ontem, 20:15",
+          "data": "23 de nov, 20:15",
           "imagem": "https://img.olx.com.br/thumbs700x500/49/494651821716724.webp"
         },
         {
@@ -369,6 +378,15 @@
           "localizacao": "Guaramirim",
           "data": "22 de nov, 13:38",
           "imagem": "https://img.olx.com.br/thumbs700x500/56/566639228485481.webp"
+        },
+        {
+          "id": "1554597702",
+          "titulo": "Iphone 15 128 GB azul excelente estado",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-128-gb-azul-excelente-estado-1554597702",
+          "preco": 2700,
+          "localizacao": "Barra Velha",
+          "data": "20 de nov, 09:16",
+          "imagem": "https://img.olx.com.br/thumbs700x500/76/765646583902598.webp"
         },
         {
           "id": "1554465835",
@@ -396,33 +414,6 @@
           "localizacao": "Palhoça, Bela Vista",
           "data": "6 de nov, 13:56",
           "imagem": "https://img.olx.com.br/thumbs700x500/80/806676828847159.webp"
-        },
-        {
-          "id": "1550771459",
-          "titulo": "iPhone 15 128Gb",
-          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-15-128gb-1550771459",
-          "preco": 2700,
-          "localizacao": "Criciúma, Michel",
-          "data": "6 de nov, 09:08",
-          "imagem": "https://img.olx.com.br/thumbs700x500/86/862687348335672.webp"
-        },
-        {
-          "id": "1550014520",
-          "titulo": "Iphone 15 usado 128gb",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-usado-128gb-1550014520",
-          "preco": 2700,
-          "localizacao": "Brusque, Centro I",
-          "data": "5 de nov, 10:30",
-          "imagem": "https://img.olx.com.br/thumbs700x500/16/163674828361745.webp"
-        },
-        {
-          "id": "1548944844",
-          "titulo": "iPhone 15 rosa 128gb",
-          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-15-rosa-128gb-1548944844",
-          "preco": 2700,
-          "localizacao": "Florianópolis, Agronômica",
-          "data": "30 de out, 17:21",
-          "imagem": "https://img.olx.com.br/thumbs700x500/59/596674935325951.webp"
         }
       ],
       "anunciosDescartadosPorPreco": [
@@ -436,13 +427,13 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/99/995623468602724.webp"
         },
         {
-          "id": "1553770313",
-          "titulo": "iPhone 15 rosa",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-rosa-1553770313",
-          "preco": 2000,
-          "localizacao": "Itajaí, Ressacada",
-          "data": "17 de nov, 16:28",
-          "imagem": "https://img.olx.com.br/thumbs700x500/79/797651949409307.webp"
+          "id": "1555559714",
+          "titulo": "? iPhone 15 - 128 GB",
+          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-15-128-gb-1555559714",
+          "preco": 1900,
+          "localizacao": "São José, Barreiros",
+          "data": "Ontem, 11:00",
+          "imagem": "https://img.olx.com.br/thumbs700x500/70/702669226681822.webp"
         }
       ],
       "anunciosMaisAntigosQue30Dias": [],
@@ -454,7 +445,7 @@
       "totalAnuncios": 19,
       "precoMinimo": 2500,
       "precoMediano": 2950,
-      "precoMaximo": 3350,
+      "precoMaximo": 3300,
       "anuncios": [
         {
           "id": "1552519590",
@@ -543,17 +534,8 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-256gb-black-bateria-90-1555462102",
           "preco": 2950,
           "localizacao": "Joinville, Guanabara",
-          "data": "Ontem, 22:15",
+          "data": "23 de nov, 22:15",
           "imagem": "https://img.olx.com.br/thumbs700x500/20/203629463776496.webp"
-        },
-        {
-          "id": "1550940283",
-          "titulo": "iPhone 15 256g",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-256g-1550940283",
-          "preco": 2990,
-          "localizacao": "Araquari",
-          "data": "6 de nov, 20:43",
-          "imagem": "https://img.olx.com.br/thumbs700x500/31/314680822241754.webp"
         },
         {
           "id": "1549029786",
@@ -572,6 +554,15 @@
           "localizacao": "São José, Kobrasol",
           "data": "4 de nov, 12:42",
           "imagem": "https://img.olx.com.br/thumbs700x500/81/816673912705035.webp"
+        },
+        {
+          "id": "1555536724",
+          "titulo": "iPhone 15",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-1555536724",
+          "preco": 3000,
+          "localizacao": "Blumenau, Itoupava Norte",
+          "data": "Ontem, 09:35",
+          "imagem": "https://img.olx.com.br/thumbs700x500/15/158601340586056.webp"
         },
         {
           "id": "1553741870",
@@ -601,6 +592,15 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/48/482637709492670.webp"
         },
         {
+          "id": "1554699533",
+          "titulo": "iPhone 15 256GB com R$ 500,00 em brindes",
+          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-15-256gb-com-r-500-00-em-brindes-1554699533",
+          "preco": 3150,
+          "localizacao": "Florianópolis, Centro",
+          "data": "20 de nov, 16:04",
+          "imagem": "https://img.olx.com.br/thumbs700x500/33/330624701623385.webp"
+        },
+        {
           "id": "1550730350",
           "titulo": "iPhone 15",
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-1550730350",
@@ -617,15 +617,6 @@
           "localizacao": "Joinville, Bom Retiro",
           "data": "9 de nov, 16:00",
           "imagem": "https://img.olx.com.br/thumbs700x500/48/483615707236065.webp"
-        },
-        {
-          "id": "1554699533",
-          "titulo": "iPhone 15 256GB com R$ 500,00 em brindes",
-          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-15-256gb-com-r-500-00-em-brindes-1554699533",
-          "preco": 3350,
-          "localizacao": "Florianópolis, Centro",
-          "data": "20 de nov, 16:04",
-          "imagem": "https://img.olx.com.br/thumbs700x500/33/330624701623385.webp"
         }
       ],
       "anunciosDescartadosPorPreco": [
@@ -647,8 +638,8 @@
       "url": "https://www.olx.com.br/celulares/128gb/estado-sc/norte-de-santa-catarina?q=iphone%2015%20pro&sp=1",
       "totalAnuncios": 42,
       "precoMinimo": 2850,
-      "precoMediano": 3399,
-      "precoMaximo": 3750,
+      "precoMediano": 3390,
+      "precoMaximo": 3740,
       "anuncios": [
         {
           "id": "1553407299",
@@ -676,6 +667,15 @@
           "localizacao": "Itajaí, São Vicente",
           "data": "17 de nov, 19:30",
           "imagem": "https://img.olx.com.br/thumbs700x500/28/283697226379027.webp"
+        },
+        {
+          "id": "1555719605",
+          "titulo": "iPhone 15 pro top",
+          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-15-pro-top-1555719605",
+          "preco": 3000,
+          "localizacao": "Florianópolis, Vargem Grande",
+          "data": "Ontem, 21:14",
+          "imagem": "https://img.olx.com.br/thumbs700x500/59/591612941490062.webp"
         },
         {
           "id": "1553451994",
@@ -714,12 +714,21 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/42/420690451160101.webp"
         },
         {
+          "id": "1555586177",
+          "titulo": "iPhone 15 pro",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-1555586177",
+          "preco": 3190,
+          "localizacao": "Joinville, Aventureiro",
+          "data": "Ontem, 12:33",
+          "imagem": "https://img.olx.com.br/thumbs700x500/30/304627341825156.webp"
+        },
+        {
           "id": "1497434825",
           "titulo": "iPhone 15 pro",
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-1497434825",
           "preco": 3200,
           "localizacao": "Itajaí, São Vicente",
-          "data": "Ontem, 22:21",
+          "data": "23 de nov, 22:21",
           "imagem": "https://img.olx.com.br/thumbs700x500/93/934608157886194.webp"
         },
         {
@@ -957,6 +966,15 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/19/198620533738954.webp"
         },
         {
+          "id": "1552950856",
+          "titulo": "iPhone 15 Pro",
+          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-15-pro-1552950856",
+          "preco": 3600,
+          "localizacao": "Florianópolis, Centro",
+          "data": "14 de nov, 19:53",
+          "imagem": "https://img.olx.com.br/thumbs700x500/29/293632462635331.webp"
+        },
+        {
           "id": "1548061590",
           "titulo": "iPhone 15 PRO",
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-1548061590",
@@ -984,15 +1002,6 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/89/896656225587238.webp"
         },
         {
-          "id": "1552950856",
-          "titulo": "iPhone 15 Pro",
-          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-15-pro-1552950856",
-          "preco": 3700,
-          "localizacao": "Florianópolis, Centro",
-          "data": "14 de nov, 19:53",
-          "imagem": "https://img.olx.com.br/thumbs700x500/29/293632462635331.webp"
-        },
-        {
           "id": "1549105009",
           "titulo": "iPhone 15 PRO",
           "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-15-pro-1549105009",
@@ -1002,34 +1011,25 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/53/538653450112978.webp"
         },
         {
-          "id": "1547509459",
-          "titulo": "iPhone 15 pro",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-1547509459",
-          "preco": 3700,
-          "localizacao": "Itapema",
-          "data": "26 de out, 09:16",
-          "imagem": "https://img.olx.com.br/thumbs700x500/18/188669097552862.webp"
-        },
-        {
           "id": "1405661781",
           "titulo": "iPhone 15 PRO - 6 Meses de Garantia - Loja física",
           "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-15-pro-6-meses-de-garantia-loja-fisica-1405661781",
           "preco": 3740,
           "localizacao": "Florianópolis, Centro",
-          "data": "Ontem, 11:38",
+          "data": "23 de nov, 11:38",
           "imagem": "https://img.olx.com.br/thumbs700x500/93/930688367689841.webp"
-        },
-        {
-          "id": "1547727380",
-          "titulo": "iPhone 15 Pro - 128GB - seminovo",
-          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-15-pro-128gb-seminovo-1547727380",
-          "preco": 3750,
-          "localizacao": "São José, Campinas",
-          "data": "26 de out, 16:15",
-          "imagem": "https://img.olx.com.br/thumbs700x500/41/417678930486361.webp"
         }
       ],
       "anunciosDescartadosPorPreco": [
+        {
+          "id": "1555622834",
+          "titulo": "iPhone 15 pro",
+          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-15-pro-1555622834",
+          "preco": 2700,
+          "localizacao": "Florianópolis, Ingleses do Rio Vermelho",
+          "data": "Ontem, 14:50",
+          "imagem": "https://img.olx.com.br/thumbs700x500/86/865675229943890.webp"
+        },
         {
           "id": "1552161089",
           "titulo": "iPhone 15 pro 128gb",
@@ -1038,27 +1038,19 @@
           "localizacao": "Palhoça, Aririú da Formiga",
           "data": "11 de nov, 20:26",
           "imagem": "https://img.olx.com.br/thumbs700x500/90/904601588742361.webp"
-        },
-        {
-          "id": "1449326885",
-          "titulo": "iPhone 15 Pro 128gb preto semi novo em excelente estado!!",
-          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-15-pro-128gb-preto-semi-novo-em-excelente-estado-1449326885",
-          "preco": 4099,
-          "localizacao": "São José, Kobrasol",
-          "data": "20 de nov, 13:18",
-          "imagem": "https://img.olx.com.br/thumbs700x500/57/570518939249931.webp"
-        },
-        {
-          "id": "1524112311",
-          "titulo": "SEMINOVO iPhone 15 Pro Titânio Azul 128GB",
-          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/seminovo-iphone-15-pro-titanio-azul-128gb-1524112311",
-          "preco": 4140,
-          "localizacao": "Criciúma, Centro",
-          "data": "9 de nov, 10:15",
-          "imagem": "https://img.olx.com.br/thumbs700x500/98/985660559383145.webp"
         }
       ],
-      "anunciosMaisAntigosQue30Dias": [],
+      "anunciosMaisAntigosQue30Dias": [
+        {
+          "id": "1547509459",
+          "titulo": "iPhone 15 pro",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-1547509459",
+          "preco": 3700,
+          "localizacao": "Itapema",
+          "data": "26 de out, 09:16",
+          "imagem": "https://img.olx.com.br/thumbs700x500/18/188669097552862.webp"
+        }
+      ],
       "anunciosDataNaoReconhecida": []
     },
     {
@@ -1066,7 +1058,7 @@
       "url": "https://www.olx.com.br/celulares/256gb/estado-sc/norte-de-santa-catarina?q=iphone%2015%20pro&sp=1",
       "totalAnuncios": 21,
       "precoMinimo": 2800,
-      "precoMediano": 3500,
+      "precoMediano": 3499,
       "precoMaximo": 3700,
       "anuncios": [
         {
@@ -1086,6 +1078,15 @@
           "localizacao": "Palhoça, Pedra Branca",
           "data": "27 de out, 08:40",
           "imagem": "https://img.olx.com.br/thumbs700x500/47/479618570561704.webp"
+        },
+        {
+          "id": "1555608841",
+          "titulo": "iPhone 15 Pro 256gb",
+          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-15-pro-256gb-1555608841",
+          "preco": 2990,
+          "localizacao": "Florianópolis, Campeche",
+          "data": "Ontem, 14:01",
+          "imagem": "https://img.olx.com.br/thumbs700x500/81/815609347838429.webp"
         },
         {
           "id": "1552964604",
@@ -1165,7 +1166,7 @@
           "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-15-pro-256g-usado-1542312821",
           "preco": 3500,
           "localizacao": "Florianópolis, Balneário",
-          "data": "Ontem, 13:25",
+          "data": "23 de nov, 13:25",
           "imagem": "https://img.olx.com.br/thumbs700x500/45/457632819744178.webp"
         },
         {
@@ -1248,39 +1249,47 @@
           "localizacao": "São José, Flor de Nápolis",
           "data": "18 de nov, 07:34",
           "imagem": "https://img.olx.com.br/thumbs700x500/61/616631580794274.webp"
-        },
-        {
-          "id": "1550440592",
-          "titulo": "iPhone 15 Pro 256GB ? Titânio Natural COM NOTA FISCAL E CAIXA ORIGINAL",
-          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-15-pro-256gb-titanio-natural-com-nota-fiscal-e-caixa-original-1550440592",
-          "preco": 3700,
-          "localizacao": "Florianópolis, Itacorubi",
-          "data": "5 de nov, 09:33",
-          "imagem": "https://img.olx.com.br/thumbs700x500/26/266692589891303.webp"
         }
       ],
       "anunciosDescartadosPorPreco": [],
-      "anunciosMaisAntigosQue30Dias": [
-        {
-          "id": "1547365488",
-          "titulo": "iPhone 15 Pro 256gb 87%",
-          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-15-pro-256gb-87-1547365488",
-          "preco": 3200,
-          "localizacao": "Biguaçu, Rio Caveiras",
-          "data": "25 de out, 15:09",
-          "imagem": "https://img.olx.com.br/thumbs700x500/23/239641095474870.webp"
-        }
-      ],
+      "anunciosMaisAntigosQue30Dias": [],
       "anunciosDataNaoReconhecida": []
     },
     {
       "modelo": "iPhone 15 Pro Max",
       "url": "https://www.olx.com.br/celulares/apple/iphone-15-pro-max/estado-sc/norte-de-santa-catarina?sp=1",
-      "totalAnuncios": 42,
-      "precoMinimo": 3100,
+      "totalAnuncios": 44,
+      "precoMinimo": 2900,
       "precoMediano": 3700,
       "precoMaximo": 3950,
       "anuncios": [
+        {
+          "id": "1554239540",
+          "titulo": "Iphone 15 PRO MAX 256GB",
+          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-15-pro-max-256gb-1554239540",
+          "preco": 2900,
+          "localizacao": "Palhoça, Pedra Branca",
+          "data": "18 de nov, 20:44",
+          "imagem": "https://img.olx.com.br/thumbs700x500/62/621644826400358.webp"
+        },
+        {
+          "id": "1550810546",
+          "titulo": "IPHONE 15 PRO MAX - 256GB",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-max-256gb-1550810546",
+          "preco": 3000,
+          "localizacao": "Araquari",
+          "data": "6 de nov, 11:49",
+          "imagem": "https://img.olx.com.br/thumbs700x500/69/693645469176346.webp"
+        },
+        {
+          "id": "1555774906",
+          "titulo": "15 Pro Max 256GB",
+          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/15-pro-max-256gb-1555774906",
+          "preco": 3099,
+          "localizacao": "São José, Forquilhinha",
+          "data": "Hoje, 01:12",
+          "imagem": "https://img.olx.com.br/thumbs700x500/25/258651343359370.webp"
+        },
         {
           "id": "1553424484",
           "titulo": "Vendo iPhone 15 pro Max",
@@ -1350,7 +1359,7 @@
           "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-15-pro-max-256gb-repasse-leia-a-descricao-ate-18x-1555368931",
           "preco": 3499,
           "localizacao": "São José, Campinas",
-          "data": "Ontem, 16:28",
+          "data": "23 de nov, 16:28",
           "imagem": "https://img.olx.com.br/thumbs700x500/42/421629828863276.webp"
         },
         {
@@ -1408,15 +1417,6 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/24/246604466190809.webp"
         },
         {
-          "id": "1552428372",
-          "titulo": "iphone 15 pro max",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-max-1552428372",
-          "preco": 3600,
-          "localizacao": "Jaraguá do Sul, Jaraguá Esquerdo",
-          "data": "12 de nov, 15:39",
-          "imagem": "https://img.olx.com.br/thumbs700x500/41/412650827524365.webp"
-        },
-        {
           "id": "1551549330",
           "titulo": "iPhone 15 pro Max 256gb seminovo",
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-max-256gb-seminovo-1551549330",
@@ -1453,6 +1453,15 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/94/941695817123477.webp"
         },
         {
+          "id": "1555606416",
+          "titulo": "iPhone 15 Pro Max 256",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-max-256-1555606416",
+          "preco": 3700,
+          "localizacao": "Navegantes, Gravatá",
+          "data": "Ontem, 13:51",
+          "imagem": "https://img.olx.com.br/thumbs700x500/38/387655343389649.webp"
+        },
+        {
           "id": "1548923431",
           "titulo": "iphone 15 Pro Max 256 GB  IMPECÁVEL",
           "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-15-pro-max-256-gb-impecavel-1548923431",
@@ -1469,15 +1478,6 @@
           "localizacao": "São José, Forquilhinha",
           "data": "13 de nov, 20:24",
           "imagem": "https://img.olx.com.br/thumbs700x500/98/988626704387475.webp"
-        },
-        {
-          "id": "1551802812",
-          "titulo": "iPhone 15 pro Max 256GB - todo original",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-max-256gb-todo-original-1551802812",
-          "preco": 3700,
-          "localizacao": "Balneário Camboriú, Centro",
-          "data": "10 de nov, 15:30",
-          "imagem": "https://img.olx.com.br/thumbs700x500/74/747668705552118.webp"
         },
         {
           "id": "1551455453",
@@ -1521,7 +1521,7 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-max-impecavel-1555323860",
           "preco": 3799,
           "localizacao": "Itajaí, Vila Operária",
-          "data": "Ontem, 13:53",
+          "data": "23 de nov, 13:53",
           "imagem": "https://img.olx.com.br/thumbs700x500/96/961665589952478.webp"
         },
         {
@@ -1534,12 +1534,30 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/37/378602811552567.webp"
         },
         {
+          "id": "1555833879",
+          "titulo": "iPhone 15 Pro Max 512gb",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-max-512gb-1555833879",
+          "preco": 3800,
+          "localizacao": "Rio do Sul, Budag",
+          "data": "Hoje, 08:30",
+          "imagem": "https://img.olx.com.br/thumbs700x500/33/335681829203138.webp"
+        },
+        {
+          "id": "1555776269",
+          "titulo": "iPhone 15 Pro Max 256GB com CAIXA! Entrego",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-max-256gb-com-caixa-entrego-1555776269",
+          "preco": 3800,
+          "localizacao": "Joinville, Vila Nova",
+          "data": "Hoje, 01:28",
+          "imagem": "https://img.olx.com.br/thumbs700x500/42/426622468749157.webp"
+        },
+        {
           "id": "1555338658",
           "titulo": "iPhone 15 pro Max",
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-max-1555338658",
           "preco": 3800,
           "localizacao": "Jaraguá do Sul, João Pessoa",
-          "data": "Ontem, 15:13",
+          "data": "23 de nov, 15:13",
           "imagem": "https://img.olx.com.br/thumbs700x500/66/667603101515616.webp"
         },
         {
@@ -1579,30 +1597,12 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/87/876620216658462.webp"
         },
         {
-          "id": "1555035821",
-          "titulo": "iPhone 15 Pro Max - 256 GB",
-          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-15-pro-max-256-gb-1555035821",
-          "preco": 3830,
-          "localizacao": "Florianópolis, Tapera da Base",
-          "data": "22 de nov, 10:24",
-          "imagem": "https://img.olx.com.br/thumbs700x500/76/766630705437312.webp"
-        },
-        {
-          "id": "1549440986",
-          "titulo": "Iphone 15 pro max 256",
-          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-15-pro-max-256-1549440986",
-          "preco": 3890,
-          "localizacao": "Palhoça, Centro",
-          "data": "1 de nov, 20:54",
-          "imagem": "https://img.olx.com.br/thumbs700x500/54/540683580353943.webp"
-        },
-        {
           "id": "1555381305",
           "titulo": "iPhone 15 Pro Max 256gb Preto - Semi novo impecável",
           "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-15-pro-max-256gb-preto-semi-novo-impecavel-1555381305",
           "preco": 3899,
           "localizacao": "São José, Kobrasol",
-          "data": "Ontem, 16:50",
+          "data": "23 de nov, 16:50",
           "imagem": "https://img.olx.com.br/thumbs700x500/38/389628220553323.webp"
         },
         {
@@ -1669,33 +1669,6 @@
           "localizacao": "Biguaçu, Praia João Rosa",
           "data": "16 de nov, 12:10",
           "imagem": "https://img.olx.com.br/thumbs700x500/67/672602464072561.webp"
-        },
-        {
-          "id": "1554777699",
-          "titulo": "IPhone 15 pro max",
-          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-15-pro-max-1554777699",
-          "preco": 2800,
-          "localizacao": "São José, Kobrasol",
-          "data": "21 de nov, 01:09",
-          "imagem": "https://img.olx.com.br/thumbs700x500/35/357600223667565.webp"
-        },
-        {
-          "id": "1554239540",
-          "titulo": "Iphone 15 PRO MAX 256GB",
-          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-15-pro-max-256gb-1554239540",
-          "preco": 2900,
-          "localizacao": "Palhoça, Pedra Branca",
-          "data": "18 de nov, 20:44",
-          "imagem": "https://img.olx.com.br/thumbs700x500/62/621644826400358.webp"
-        },
-        {
-          "id": "1550810546",
-          "titulo": "IPHONE 15 PRO MAX - 256GB",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-15-pro-max-256gb-1550810546",
-          "preco": 3000,
-          "localizacao": "Araquari",
-          "data": "6 de nov, 11:49",
-          "imagem": "https://img.olx.com.br/thumbs700x500/69/693645469176346.webp"
         }
       ],
       "anunciosMaisAntigosQue30Dias": [],
@@ -1704,38 +1677,11 @@
     {
       "modelo": "iPhone 16 128GB",
       "url": "https://www.olx.com.br/celulares/apple/iphone-16/128gb/estado-sc/norte-de-santa-catarina?sp=1",
-      "totalAnuncios": 26,
-      "precoMinimo": 2750,
-      "precoMediano": 3499.5,
+      "totalAnuncios": 24,
+      "precoMinimo": 3199,
+      "precoMediano": 3500,
       "precoMaximo": 3600,
       "anuncios": [
-        {
-          "id": "1555136311",
-          "titulo": "IPHONE 16 128GB",
-          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-16-128gb-1555136311",
-          "preco": 2750,
-          "localizacao": "Biguaçu, Bom Viver",
-          "data": "22 de nov, 18:00",
-          "imagem": "https://img.olx.com.br/thumbs700x500/10/106692223343428.webp"
-        },
-        {
-          "id": "1550774291",
-          "titulo": "IPHONE 16 - 128gb",
-          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-16-128gb-1550774291",
-          "preco": 2800,
-          "localizacao": "Florianópolis, Capoeiras",
-          "data": "6 de nov, 09:24",
-          "imagem": "https://img.olx.com.br/thumbs700x500/77/774631102896977.webp"
-        },
-        {
-          "id": "1549714508",
-          "titulo": "iPhone 16",
-          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-16-1549714508",
-          "preco": 2850,
-          "localizacao": "São José, Forquilhinha",
-          "data": "2 de nov, 20:15",
-          "imagem": "https://img.olx.com.br/thumbs700x500/53/533657589116277.webp"
-        },
         {
           "id": "1552432249",
           "titulo": "iphone 16 ? 128gb ? 83% bateria",
@@ -1796,7 +1742,7 @@
           "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-16-128gb-rosa-perfeito-estado-em-ate-24x-taxa-1544226269",
           "preco": 3499,
           "localizacao": "São José, Kobrasol",
-          "data": "Ontem, 19:45",
+          "data": "23 de nov, 19:45",
           "imagem": "https://img.olx.com.br/thumbs700x500/37/376648574662743.webp"
         },
         {
@@ -1825,6 +1771,15 @@
           "localizacao": "Palhoça, Nova Palhoça",
           "data": "7 de nov, 19:44",
           "imagem": "https://img.olx.com.br/thumbs700x500/78/784630461500202.webp"
+        },
+        {
+          "id": "1555670899",
+          "titulo": "iPhone 16 Branco 92%?",
+          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-16-branco-92-1555670899",
+          "preco": 3500,
+          "localizacao": "Florianópolis, Agronômica",
+          "data": "Ontem, 17:37",
+          "imagem": "https://img.olx.com.br/thumbs700x500/69/691609700100220.webp"
         },
         {
           "id": "1554707608",
@@ -1931,7 +1886,7 @@
           "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-16-1555411533",
           "preco": 3600,
           "localizacao": "Palhoça, Guarda do Cubatão",
-          "data": "Ontem, 18:08",
+          "data": "23 de nov, 18:08",
           "imagem": "https://img.olx.com.br/thumbs700x500/57/578641587885395.webp"
         },
         {
@@ -1953,27 +1908,44 @@
           "localizacao": "Palhoça, Ponte do Imaruim",
           "data": "20 de nov, 04:22",
           "imagem": "https://img.olx.com.br/thumbs700x500/71/718640229669992.webp"
-        }
-      ],
-      "anunciosMaisAntigosQue30Dias": [
+        },
         {
-          "id": "1547404105",
-          "titulo": "iPhone 16 Rosa 128gb",
-          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-16-rosa-128gb-1547404105",
-          "preco": 3600,
-          "localizacao": "Palhoça, Aririú",
-          "data": "25 de out, 20:59",
-          "imagem": "https://img.olx.com.br/thumbs700x500/54/541674816213768.webp"
+          "id": "1555136311",
+          "titulo": "IPHONE 16 128GB",
+          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-16-128gb-1555136311",
+          "preco": 2750,
+          "localizacao": "Biguaçu, Bom Viver",
+          "data": "22 de nov, 18:00",
+          "imagem": "https://img.olx.com.br/thumbs700x500/10/106692223343428.webp"
+        },
+        {
+          "id": "1550774291",
+          "titulo": "IPHONE 16 - 128gb",
+          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-16-128gb-1550774291",
+          "preco": 2800,
+          "localizacao": "Florianópolis, Capoeiras",
+          "data": "6 de nov, 09:24",
+          "imagem": "https://img.olx.com.br/thumbs700x500/77/774631102896977.webp"
+        },
+        {
+          "id": "1549714508",
+          "titulo": "iPhone 16",
+          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-16-1549714508",
+          "preco": 2850,
+          "localizacao": "São José, Forquilhinha",
+          "data": "2 de nov, 20:15",
+          "imagem": "https://img.olx.com.br/thumbs700x500/53/533657589116277.webp"
         }
       ],
+      "anunciosMaisAntigosQue30Dias": [],
       "anunciosDataNaoReconhecida": []
     },
     {
       "modelo": "iPhone 16 256GB",
       "url": "https://www.olx.com.br/celulares/apple/iphone-16/256gb/estado-sc/norte-de-santa-catarina?sp=1",
-      "totalAnuncios": 12,
+      "totalAnuncios": 13,
       "precoMinimo": 3300,
-      "precoMediano": 3950,
+      "precoMediano": 3800,
       "precoMaximo": 4690,
       "anuncios": [
         {
@@ -1984,6 +1956,15 @@
           "localizacao": "Florianópolis, Itacorubi",
           "data": "28 de out, 11:49",
           "imagem": "https://img.olx.com.br/thumbs700x500/52/520651337887395.webp"
+        },
+        {
+          "id": "1555661615",
+          "titulo": "iPhone 16 256Gb excelente",
+          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-16-256gb-excelente-1555661615",
+          "preco": 3500,
+          "localizacao": "Florianópolis, Córrego Grande",
+          "data": "Ontem, 17:13",
+          "imagem": "https://img.olx.com.br/thumbs700x500/55/557665822206271.webp"
         },
         {
           "id": "1548586151",
@@ -2040,6 +2021,15 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/25/257610223104552.webp"
         },
         {
+          "id": "1554359094",
+          "titulo": "iPhone 16 256gb com R$ 500,00 em brindes",
+          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-16-256gb-com-r-500-00-em-brindes-1554359094",
+          "preco": 4190,
+          "localizacao": "Florianópolis, Centro",
+          "data": "19 de nov, 11:42",
+          "imagem": "https://img.olx.com.br/thumbs700x500/62/627692587896985.webp"
+        },
+        {
           "id": "1554732024",
           "titulo": "iPhone 16",
           "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-16-1554732024",
@@ -2056,15 +2046,6 @@
           "localizacao": "Florianópolis, Trindade",
           "data": "7 de nov, 22:12",
           "imagem": "https://img.olx.com.br/thumbs700x500/22/228628704448742.webp"
-        },
-        {
-          "id": "1554359094",
-          "titulo": "iPhone 16 256gb com R$ 500,00 em brindes",
-          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-16-256gb-com-r-500-00-em-brindes-1554359094",
-          "preco": 4390,
-          "localizacao": "Florianópolis, Centro",
-          "data": "19 de nov, 11:42",
-          "imagem": "https://img.olx.com.br/thumbs700x500/62/627692587896985.webp"
         },
         {
           "id": "1554242129",
@@ -2092,9 +2073,9 @@
     {
       "modelo": "iPhone 16 Pro 128GB",
       "url": "https://www.olx.com.br/celulares/apple/iphone-16-pro/128gb/estado-sc/norte-de-santa-catarina?sp=1",
-      "totalAnuncios": 45,
+      "totalAnuncios": 43,
       "precoMinimo": 3800,
-      "precoMediano": 4300,
+      "precoMediano": 4299,
       "precoMaximo": 4900,
       "anuncios": [
         {
@@ -2103,7 +2084,7 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-1552112650",
           "preco": 3800,
           "localizacao": "Navegantes, São Domingos",
-          "data": "Ontem, 18:32",
+          "data": "23 de nov, 18:32",
           "imagem": "https://img.olx.com.br/thumbs700x500/61/614667585864593.webp"
         },
         {
@@ -2112,7 +2093,7 @@
           "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-16-pro-128gb-titanio-deserto-1555228664",
           "preco": 3800,
           "localizacao": "Palhoça, Ponte do Imaruim",
-          "data": "Ontem, 08:12",
+          "data": "23 de nov, 08:12",
           "imagem": "https://img.olx.com.br/thumbs700x500/83/839656702073753.webp"
         },
         {
@@ -2139,8 +2120,17 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-semi-novo-1555312523",
           "preco": 4000,
           "localizacao": "Joinville, Bom Retiro",
-          "data": "Ontem, 13:25",
+          "data": "23 de nov, 13:25",
           "imagem": "https://img.olx.com.br/thumbs700x500/81/819691589281769.webp"
+        },
+        {
+          "id": "1554306060",
+          "titulo": "iPhone 16 Pro",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-1554306060",
+          "preco": 4000,
+          "localizacao": "Joinville, Boa Vista",
+          "data": "19 de nov, 07:07",
+          "imagem": "https://img.olx.com.br/thumbs700x500/29/293611223390284.webp"
         },
         {
           "id": "1550182404",
@@ -2170,12 +2160,21 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/45/453606822139591.webp"
         },
         {
+          "id": "1551093223",
+          "titulo": "iPhone 16 Pro 128GB | Única dona | Original",
+          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-16-pro-128gb-unica-dona-original-1551093223",
+          "preco": 4099,
+          "localizacao": "Florianópolis, Centro",
+          "data": "7 de nov, 14:17",
+          "imagem": "https://img.olx.com.br/thumbs700x500/53/535676701756757.webp"
+        },
+        {
           "id": "1555386489",
           "titulo": "iPhone 16 Pro 128GB",
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-128gb-1555386489",
           "preco": 4100,
           "localizacao": "Jaraguá do Sul, Água Verde",
-          "data": "Ontem, 16:59",
+          "data": "23 de nov, 16:59",
           "imagem": "https://img.olx.com.br/thumbs700x500/34/348611224896732.webp"
         },
         {
@@ -2188,21 +2187,12 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/49/495692941807220.webp"
         },
         {
-          "id": "1553849665",
-          "titulo": "iPhone 16 pro impecável",
-          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-16-pro-impecavel-1553849665",
-          "preco": 4100,
-          "localizacao": "Palhoça, Madri",
-          "data": "17 de nov, 21:08",
-          "imagem": "https://img.olx.com.br/thumbs700x500/40/408652703905667.webp"
-        },
-        {
           "id": "1514467441",
           "titulo": "iPhone 16 Pro 128gb",
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-128gb-1514467441",
           "preco": 4189,
           "localizacao": "Balneário Camboriú, Centro",
-          "data": "Ontem, 16:18",
+          "data": "23 de nov, 16:18",
           "imagem": "https://img.olx.com.br/thumbs700x500/94/945644772022653.webp"
         },
         {
@@ -2215,13 +2205,13 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/63/634626578589156.webp"
         },
         {
-          "id": "1554306060",
-          "titulo": "iPhone 16 Pro",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-1554306060",
+          "id": "1552875634",
+          "titulo": "Iphone 16 Pro 128GB Preto",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-128gb-preto-1552875634",
           "preco": 4200,
-          "localizacao": "Joinville, Boa Vista",
-          "data": "19 de nov, 07:07",
-          "imagem": "https://img.olx.com.br/thumbs700x500/29/293611223390284.webp"
+          "localizacao": "Joinville, Glória",
+          "data": "14 de nov, 12:58",
+          "imagem": "https://img.olx.com.br/thumbs700x500/66/665600225339619.webp"
         },
         {
           "id": "1551642125",
@@ -2240,15 +2230,6 @@
           "localizacao": "Joinville, Floresta",
           "data": "19 de nov, 11:35",
           "imagem": "https://img.olx.com.br/thumbs700x500/22/228609467796306.webp"
-        },
-        {
-          "id": "1551093223",
-          "titulo": "iPhone 16 Pro 128GB | Única dona | Original",
-          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-16-pro-128gb-unica-dona-original-1551093223",
-          "preco": 4250,
-          "localizacao": "Florianópolis, Centro",
-          "data": "7 de nov, 14:17",
-          "imagem": "https://img.olx.com.br/thumbs700x500/53/535676701756757.webp"
         },
         {
           "id": "1554860639",
@@ -2319,7 +2300,7 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-97-saude-da-bateria-1555388352",
           "preco": 4390,
           "localizacao": "Gaspar, Bela Vista",
-          "data": "Ontem, 17:05",
+          "data": "23 de nov, 17:05",
           "imagem": "https://img.olx.com.br/thumbs700x500/28/280644828631579.webp"
         },
         {
@@ -2346,7 +2327,7 @@
           "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-16-pro-128gb-preto-impecavel-sem-riscos-original-1555418925",
           "preco": 4490,
           "localizacao": "Florianópolis, Rio Tavares",
-          "data": "Ontem, 18:39",
+          "data": "23 de nov, 18:39",
           "imagem": "https://img.olx.com.br/thumbs700x500/24/240691104987056.webp"
         },
         {
@@ -2375,15 +2356,6 @@
           "localizacao": "São José, Kobrasol",
           "data": "27 de out, 15:43",
           "imagem": "https://img.olx.com.br/thumbs700x500/16/169639454567955.webp"
-        },
-        {
-          "id": "1552875634",
-          "titulo": "Iphone 16 Pro 128GB Preto",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-128gb-preto-1552875634",
-          "preco": 4500,
-          "localizacao": "Joinville, Glória",
-          "data": "14 de nov, 12:58",
-          "imagem": "https://img.olx.com.br/thumbs700x500/66/665600225339619.webp"
         },
         {
           "id": "1552819032",
@@ -2476,21 +2448,12 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/49/498699701672783.webp"
         },
         {
-          "id": "1547729120",
-          "titulo": "iPhone 16 Pro - 128GB",
-          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-16-pro-128gb-1547729120",
-          "preco": 4750,
-          "localizacao": "São José, Campinas",
-          "data": "26 de out, 16:20",
-          "imagem": "https://img.olx.com.br/thumbs700x500/52/521626095764204.webp"
-        },
-        {
           "id": "1343943671",
           "titulo": "iPhone 16 Pro 6 meses de garantia",
           "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-16-pro-6-meses-de-garantia-1343943671",
           "preco": 4840,
           "localizacao": "Florianópolis, Centro",
-          "data": "Ontem, 11:23",
+          "data": "23 de nov, 11:23",
           "imagem": "https://img.olx.com.br/thumbs700x500/95/955445573981176.webp"
         },
         {
@@ -2503,26 +2466,16 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/82/820640342287628.webp"
         }
       ],
-      "anunciosDescartadosPorPreco": [
-        {
-          "id": "1555319087",
-          "titulo": "iPhone 16 pro 128gb",
-          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-16-pro-128gb-1555319087",
-          "preco": 2000,
-          "localizacao": "Florianópolis, Jardim Atlântico",
-          "data": "Ontem, 13:48",
-          "imagem": "https://img.olx.com.br/thumbs700x500/27/277677347390929.webp"
-        }
-      ],
+      "anunciosDescartadosPorPreco": [],
       "anunciosMaisAntigosQue30Dias": [
         {
-          "id": "1547406412",
-          "titulo": "IPHONE 16 PRO 128GB",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-128gb-1547406412",
-          "preco": 4000,
-          "localizacao": "Joinville, Bom Retiro",
-          "data": "25 de out, 21:27",
-          "imagem": "https://img.olx.com.br/thumbs700x500/62/625616938408256.webp"
+          "id": "1547729120",
+          "titulo": "iPhone 16 Pro - 128GB",
+          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-16-pro-128gb-1547729120",
+          "preco": 4750,
+          "localizacao": "São José, Campinas",
+          "data": "26 de out, 16:20",
+          "imagem": "https://img.olx.com.br/thumbs700x500/52/521626095764204.webp"
         }
       ],
       "anunciosDataNaoReconhecida": []
@@ -2530,7 +2483,7 @@
     {
       "modelo": "iPhone 16 Pro 256GB",
       "url": "https://www.olx.com.br/celulares/apple/iphone-16-pro/256gb/estado-sc/norte-de-santa-catarina?sp=1",
-      "totalAnuncios": 27,
+      "totalAnuncios": 24,
       "precoMinimo": 3799,
       "precoMediano": 4699,
       "precoMaximo": 5100,
@@ -2590,15 +2543,6 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/81/813677341642325.webp"
         },
         {
-          "id": "1547760297",
-          "titulo": "iPhone 16 Pro",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-1547760297",
-          "preco": 4250,
-          "localizacao": "Joinville, Bom Retiro",
-          "data": "26 de out, 18:20",
-          "imagem": "https://img.olx.com.br/thumbs700x500/72/725614574672100.webp"
-        },
-        {
           "id": "1554052832",
           "titulo": "iPhone 16 pro - 256gb",
           "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-16-pro-256gb-1554052832",
@@ -2611,19 +2555,10 @@
           "id": "1554919706",
           "titulo": "iPhone 16 Pro 256 GB",
           "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-16-pro-256-gb-1554919706",
-          "preco": 4400,
+          "preco": 4299,
           "localizacao": "Florianópolis, Campeche",
           "data": "21 de nov, 17:53",
           "imagem": "https://img.olx.com.br/thumbs700x500/40/406659467393818.webp"
-        },
-        {
-          "id": "1551045015",
-          "titulo": "iPhone 16 Pro 256gb",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-256gb-1551045015",
-          "preco": 4400,
-          "localizacao": "Jaraguá do Sul, Centro",
-          "data": "7 de nov, 10:50",
-          "imagem": "https://img.olx.com.br/thumbs700x500/44/447602940134774.webp"
         },
         {
           "id": "1553163489",
@@ -2653,15 +2588,6 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/36/360695821973374.webp"
         },
         {
-          "id": "1555141130",
-          "titulo": "iPhone 16 Pro 256GB 92% com garantia",
-          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-16-pro-256gb-92-com-garantia-1555141130",
-          "preco": 4699,
-          "localizacao": "São José, Campinas",
-          "data": "22 de nov, 18:29",
-          "imagem": "https://img.olx.com.br/thumbs700x500/35/350697342686805.webp"
-        },
-        {
           "id": "1520552603",
           "titulo": "iPhone 16 Pro 256gb Desert semi novo perfeito!!",
           "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-16-pro-256gb-desert-semi-novo-perfeito-1520552603",
@@ -2669,15 +2595,6 @@
           "localizacao": "São José, Kobrasol",
           "data": "22 de nov, 18:04",
           "imagem": "https://img.olx.com.br/thumbs700x500/64/648675802672411.webp"
-        },
-        {
-          "id": "1555067094",
-          "titulo": "iPhone 16 Pro 256GB - 92% de Bateria - Lindo, todo original - Até 18x",
-          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-16-pro-256gb-92-de-bateria-lindo-todo-original-ate-18x-1555067094",
-          "preco": 4699,
-          "localizacao": "São José, Campinas",
-          "data": "22 de nov, 14:04",
-          "imagem": "https://img.olx.com.br/thumbs700x500/51/516630821128819.webp"
         },
         {
           "id": "1511997005",
@@ -2752,6 +2669,15 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/12/126635093042653.webp"
         },
         {
+          "id": "1555141130",
+          "titulo": "iPhone 16 Pro 256GB 92% com garantia",
+          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-16-pro-256gb-92-com-garantia-1555141130",
+          "preco": 4999,
+          "localizacao": "São José, Campinas",
+          "data": "22 de nov, 18:29",
+          "imagem": "https://img.olx.com.br/thumbs700x500/35/350697342686805.webp"
+        },
+        {
           "id": "1555065853",
           "titulo": "iPhone 16 Pro Black 256GB",
           "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-16-pro-black-256gb-1555065853",
@@ -2801,13 +2727,13 @@
       ],
       "anunciosMaisAntigosQue30Dias": [
         {
-          "id": "1547282623",
-          "titulo": "IPHONE 16 PRO 256GB SEM MARCAS DE USO!",
-          "link": "https://sc.olx.com.br/oeste-de-santa-catarina/celulares/iphone-16-pro-256gb-sem-marcas-de-uso-1547282623",
-          "preco": 5100,
-          "localizacao": "Piratuba",
-          "data": "25 de out, 00:42",
-          "imagem": "https://img.olx.com.br/thumbs700x500/24/249660570202767.webp"
+          "id": "1547760297",
+          "titulo": "iPhone 16 Pro",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-1547760297",
+          "preco": 4250,
+          "localizacao": "Joinville, Bom Retiro",
+          "data": "26 de out, 18:20",
+          "imagem": "https://img.olx.com.br/thumbs700x500/72/725614574672100.webp"
         }
       ],
       "anunciosDataNaoReconhecida": []
@@ -2815,38 +2741,11 @@
     {
       "modelo": "iPhone 16 Pro Max",
       "url": "https://www.olx.com.br/celulares/apple/iphone-16-pro-max/estado-sc/norte-de-santa-catarina?sp=1",
-      "totalAnuncios": 36,
-      "precoMinimo": 3850,
-      "precoMediano": 4800,
-      "precoMaximo": 5000,
+      "totalAnuncios": 35,
+      "precoMinimo": 4200,
+      "precoMediano": 4875,
+      "precoMaximo": 4999,
       "anuncios": [
-        {
-          "id": "1552532189",
-          "titulo": "IPHONE 16 PRO MAX (OPORTUNIDADE)?",
-          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-16-pro-max-oportunidade-1552532189",
-          "preco": 3850,
-          "localizacao": "Florianópolis, Tapera da Base",
-          "data": "12 de nov, 23:43",
-          "imagem": "https://img.olx.com.br/thumbs700x500/86/864699829432578.webp"
-        },
-        {
-          "id": "1539587326",
-          "titulo": "iPhone 16 pro max 256gb",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-max-256gb-1539587326",
-          "preco": 3999,
-          "localizacao": "Itajaí, Vila Operária",
-          "data": "30 de out, 15:24",
-          "imagem": "https://img.olx.com.br/thumbs700x500/80/808696566732615.webp"
-        },
-        {
-          "id": "1554178019",
-          "titulo": "iPhone 16 pro Max 256gb",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-max-256gb-1554178019",
-          "preco": 4000,
-          "localizacao": "Camboriú, Conde Vila Verde",
-          "data": "18 de nov, 16:24",
-          "imagem": "https://img.olx.com.br/thumbs700x500/32/327697580650189.webp"
-        },
         {
           "id": "1554279131",
           "titulo": "iPhone 16 pro Max",
@@ -2891,6 +2790,15 @@
           "localizacao": "Joinville, Morro do Meio",
           "data": "19 de nov, 17:56",
           "imagem": "https://img.olx.com.br/thumbs700x500/62/622610941127907.webp"
+        },
+        {
+          "id": "1555577057",
+          "titulo": "iPhone 16 Pro Max 256GB",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-max-256gb-1555577057",
+          "preco": 4600,
+          "localizacao": "Joinville, Centro",
+          "data": "Ontem, 11:56",
+          "imagem": "https://img.olx.com.br/thumbs700x500/52/521647825711954.webp"
         },
         {
           "id": "1552085162",
@@ -2952,7 +2860,7 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-max-seminovo-1555325140",
           "preco": 4799,
           "localizacao": "Itajaí, Vila Operária",
-          "data": "Ontem, 14:01",
+          "data": "23 de nov, 14:01",
           "imagem": "https://img.olx.com.br/thumbs700x500/22/221695708408510.webp"
         },
         {
@@ -3028,6 +2936,24 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/82/823623571469937.webp"
         },
         {
+          "id": "1555630616",
+          "titulo": "iPhone 16 pro Max",
+          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-16-pro-max-1555630616",
+          "preco": 4900,
+          "localizacao": "Florianópolis, Centro",
+          "data": "Ontem, 15:17",
+          "imagem": "https://img.olx.com.br/thumbs700x500/56/562628585335710.webp"
+        },
+        {
+          "id": "1555619824",
+          "titulo": "Iphone 16 pro max 256gb",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-max-256gb-1555619824",
+          "preco": 4900,
+          "localizacao": "Navegantes, Centro",
+          "data": "Ontem, 14:42",
+          "imagem": "https://img.olx.com.br/thumbs700x500/68/684638701792590.webp"
+        },
+        {
           "id": "1553837175",
           "titulo": "Apple IPhone 16 Pro Max 256 GB Titanium Natural",
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/apple-iphone-16-pro-max-256-gb-titanium-natural-1553837175",
@@ -3046,15 +2972,6 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/25/251675467296980.webp"
         },
         {
-          "id": "1551408479",
-          "titulo": "iPhone 16 pro Max",
-          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-16-pro-max-1551408479",
-          "preco": 4900,
-          "localizacao": "Florianópolis, Centro",
-          "data": "9 de nov, 09:51",
-          "imagem": "https://img.olx.com.br/thumbs700x500/27/270623822264927.webp"
-        },
-        {
           "id": "1549596167",
           "titulo": "iPhone 16 pro Max 256gb titânio 91% bateria",
           "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-16-pro-max-256gb-titanio-91-bateria-1549596167",
@@ -3069,7 +2986,7 @@
           "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-16-pro-max-256-gb-titanio-natural-1555468908",
           "preco": 4990,
           "localizacao": "Florianópolis, Estreito",
-          "data": "Ontem, 22:59",
+          "data": "23 de nov, 22:59",
           "imagem": "https://img.olx.com.br/thumbs700x500/11/118680348879171.webp"
         },
         {
@@ -3091,13 +3008,31 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/13/132658229459988.webp"
         },
         {
-          "id": "1547766200",
-          "titulo": "iPhone 16 Pro Max Titanium - 256 Gb",
-          "link": "https://sc.olx.com.br/oeste-de-santa-catarina/celulares/iphone-16-pro-max-titanium-256-gb-1547766200",
-          "preco": 4990,
-          "localizacao": "Lages, Universitário",
-          "data": "26 de out, 19:45",
-          "imagem": "https://img.olx.com.br/thumbs700x500/85/854657454745701.webp"
+          "id": "1555755966",
+          "titulo": "iPhone 16 pro max 256gb IMPECÁVEL",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-max-256gb-impecavel-1555755966",
+          "preco": 4999,
+          "localizacao": "Joinville, Nova Brasília",
+          "data": "Ontem, 22:47",
+          "imagem": "https://img.olx.com.br/thumbs700x500/23/231670347647940.webp"
+        },
+        {
+          "id": "1555681328",
+          "titulo": "iPhone 16 Pro Max - 256gb! Bateria 90% Impecável.",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-max-256gb-bateria-90-impecavel-1555681328",
+          "preco": 4999,
+          "localizacao": "Joinville, Petrópolis",
+          "data": "Ontem, 18:17",
+          "imagem": "https://img.olx.com.br/thumbs700x500/32/321665586920733.webp"
+        },
+        {
+          "id": "1555618192",
+          "titulo": "iPhone 16 pro MAX 256!",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-max-256-1555618192",
+          "preco": 4999,
+          "localizacao": "Blumenau, Centro",
+          "data": "Ontem, 14:36",
+          "imagem": "https://img.olx.com.br/thumbs700x500/56/563611221211521.webp"
         },
         {
           "id": "1550392719",
@@ -3125,24 +3060,6 @@
           "localizacao": "Florianópolis, Trindade",
           "data": "28 de out, 10:10",
           "imagem": "https://img.olx.com.br/thumbs700x500/99/998603453845602.webp"
-        },
-        {
-          "id": "1554716684",
-          "titulo": "16 pro max",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/16-pro-max-1554716684",
-          "preco": 5000,
-          "localizacao": "Blumenau, Velha Central",
-          "data": "20 de nov, 18:21",
-          "imagem": "https://img.olx.com.br/thumbs700x500/16/165619945569730.webp"
-        },
-        {
-          "id": "1554338493",
-          "titulo": "iPhone 16 pro Max 256 GB, impecável, único dono, saúde da bateria em 94%",
-          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-16-pro-max-256-gb-impecavel-unico-dono-saude-da-bateria-em-94-1554338493",
-          "preco": 5000,
-          "localizacao": "São José, Areias",
-          "data": "19 de nov, 10:21",
-          "imagem": "https://img.olx.com.br/thumbs700x500/65/655693109665671.webp"
         }
       ],
       "anunciosDescartadosPorPreco": [
@@ -3154,35 +3071,44 @@
           "localizacao": "São José, Jardim Cidade de Florianópolis",
           "data": "19 de nov, 12:34",
           "imagem": "https://img.olx.com.br/thumbs700x500/15/156697820267107.webp"
+        },
+        {
+          "id": "1552532189",
+          "titulo": "IPHONE 16 PRO MAX (OPORTUNIDADE)?",
+          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-16-pro-max-oportunidade-1552532189",
+          "preco": 3850,
+          "localizacao": "Florianópolis, Tapera da Base",
+          "data": "12 de nov, 23:43",
+          "imagem": "https://img.olx.com.br/thumbs700x500/86/864699829432578.webp"
+        },
+        {
+          "id": "1539587326",
+          "titulo": "iPhone 16 pro max 256gb",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-max-256gb-1539587326",
+          "preco": 3999,
+          "localizacao": "Itajaí, Vila Operária",
+          "data": "30 de out, 15:24",
+          "imagem": "https://img.olx.com.br/thumbs700x500/80/808696566732615.webp"
+        },
+        {
+          "id": "1554178019",
+          "titulo": "iPhone 16 pro Max 256gb",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-max-256gb-1554178019",
+          "preco": 4000,
+          "localizacao": "Camboriú, Conde Vila Verde",
+          "data": "18 de nov, 16:24",
+          "imagem": "https://img.olx.com.br/thumbs700x500/32/327697580650189.webp"
         }
       ],
       "anunciosMaisAntigosQue30Dias": [
         {
-          "id": "1547410759",
-          "titulo": "Iphone 16 Pro Max 256 gb 256gb",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-max-256-gb-256gb-1547410759",
-          "preco": 4500,
-          "localizacao": "Balneário Camboriú, Centro",
-          "data": "25 de out, 22:26",
-          "imagem": "https://img.olx.com.br/thumbs700x500/75/752620579161593.webp"
-        },
-        {
-          "id": "1547415766",
-          "titulo": "Vendo iphone 16 pro max 256gb",
-          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/vendo-iphone-16-pro-max-256gb-1547415766",
-          "preco": 4600,
-          "localizacao": "São José, Forquilhas Leste",
-          "data": "25 de out, 23:12",
-          "imagem": "https://img.olx.com.br/thumbs700x500/10/104632812378215.webp"
-        },
-        {
-          "id": "1547314996",
-          "titulo": "iPhone 16 Pro Max 256GB",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-16-pro-max-256gb-1547314996",
-          "preco": 4899,
-          "localizacao": "Blumenau, Velha",
-          "data": "25 de out, 10:44",
-          "imagem": "https://img.olx.com.br/thumbs700x500/97/970689935228951.webp"
+          "id": "1547766200",
+          "titulo": "iPhone 16 Pro Max Titanium - 256 Gb",
+          "link": "https://sc.olx.com.br/oeste-de-santa-catarina/celulares/iphone-16-pro-max-titanium-256-gb-1547766200",
+          "preco": 4990,
+          "localizacao": "Lages, Universitário",
+          "data": "26 de out, 19:45",
+          "imagem": "https://img.olx.com.br/thumbs700x500/85/854657454745701.webp"
         }
       ],
       "anunciosDataNaoReconhecida": []
@@ -3190,7 +3116,7 @@
     {
       "modelo": "iPhone 17",
       "url": "https://www.olx.com.br/celulares/apple/iphone-17/256gb/estado-sc/norte-de-santa-catarina?q=iphone%2017&sp=1",
-      "totalAnuncios": 44,
+      "totalAnuncios": 42,
       "precoMinimo": 4300,
       "precoMediano": 5094.5,
       "precoMaximo": 6499,
@@ -3248,24 +3174,6 @@
           "localizacao": "São José, Nossa Senhora do Rosário",
           "data": "11 de nov, 20:45",
           "imagem": "https://img.olx.com.br/thumbs700x500/66/664601467341719.webp"
-        },
-        {
-          "id": "1547627745",
-          "titulo": "iPhone 17 - 256gb C/ GARANTIA",
-          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-17-256gb-c-garantia-1547627745",
-          "preco": 4599,
-          "localizacao": "São José, Potecas",
-          "data": "26 de out, 13:33",
-          "imagem": "https://img.olx.com.br/thumbs700x500/29/296631338981379.webp"
-        },
-        {
-          "id": "1547615948",
-          "titulo": "Iphone 17 256gb Branco",
-          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-17-256gb-branco-1547615948",
-          "preco": 4600,
-          "localizacao": "Palhoça, Jardim Eldorado",
-          "data": "26 de out, 12:40",
-          "imagem": "https://img.olx.com.br/thumbs700x500/31/314604219236827.webp"
         },
         {
           "id": "1552487525",
@@ -3367,6 +3275,15 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/55/553640348699627.webp"
         },
         {
+          "id": "1555568124",
+          "titulo": "iPhone 17 256 GB",
+          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-17-256-gb-1555568124",
+          "preco": 5000,
+          "localizacao": "São José, Areias",
+          "data": "Ontem, 11:24",
+          "imagem": "https://img.olx.com.br/thumbs700x500/61/612602585600219.webp"
+        },
+        {
           "id": "1553828186",
           "titulo": "Iphone 17 256GB apenas 11 meses de uso",
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-256gb-apenas-11-meses-de-uso-1553828186",
@@ -3412,6 +3329,15 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/91/915645934780592.webp"
         },
         {
+          "id": "1555635783",
+          "titulo": "iPhone 17 novo Preto 256 GB na garantia",
+          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-17-novo-preto-256-gb-na-garantia-1555635783",
+          "preco": 5150,
+          "localizacao": "São José, Campinas",
+          "data": "Ontem, 15:38",
+          "imagem": "https://img.olx.com.br/thumbs700x500/82/826629702362931.webp"
+        },
+        {
           "id": "1554823067",
           "titulo": "iPhone 17 novo lacrado",
           "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-17-novo-lacrado-1554823067",
@@ -3421,21 +3347,12 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/15/150681225414561.webp"
         },
         {
-          "id": "1547820276",
-          "titulo": "VENDO iPhone 17 NOVO  - R$ 5.200 À VISTA",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/vendo-iphone-17-novo-r-5-200-vista-1547820276",
-          "preco": 5200,
-          "localizacao": "Joinville, Saguaçu",
-          "data": "26 de out, 22:47",
-          "imagem": "https://img.olx.com.br/thumbs700x500/98/982646095123001.webp"
-        },
-        {
           "id": "1555410540",
           "titulo": "Iphone 17 preto | 256gb | Excelente Oportunidade",
           "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-17-preto-256gb-excelente-oportunidade-1555410540",
           "preco": 5300,
           "localizacao": "Florianópolis, São João do Rio Vermelho",
-          "data": "Ontem, 18:07",
+          "data": "23 de nov, 18:07",
           "imagem": "https://img.olx.com.br/thumbs700x500/36/366633463614223.webp"
         },
         {
@@ -3455,15 +3372,6 @@
           "localizacao": "Florianópolis, Centro",
           "data": "17 de nov, 10:27",
           "imagem": "https://img.olx.com.br/thumbs700x500/57/572658948439333.webp"
-        },
-        {
-          "id": "1551788062",
-          "titulo": "iPhone 17 Sálvia NOVO na CAIXA LACRADO !!! GARANTIA APPLE",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-salvia-novo-na-caixa-lacrado--garantia-apple-1551788062",
-          "preco": 5390,
-          "localizacao": "Joinville, Bucarein",
-          "data": "10 de nov, 14:38",
-          "imagem": "https://img.olx.com.br/thumbs700x500/63/634637581340272.webp"
         },
         {
           "id": "1554827729",
@@ -3592,37 +3500,46 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/90/900659780627980.webp"
         }
       ],
-      "anunciosDescartadosPorPreco": [
+      "anunciosDescartadosPorPreco": [],
+      "anunciosMaisAntigosQue30Dias": [
         {
-          "id": "1554232552",
-          "titulo": "iPhone 17",
-          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-17-1554232552",
-          "preco": 6999,
-          "localizacao": "Florianópolis, Rio Tavares",
-          "data": "18 de nov, 20:06",
-          "imagem": "https://img.olx.com.br/thumbs700x500/13/134692708815207.webp"
+          "id": "1547627745",
+          "titulo": "iPhone 17 - 256gb C/ GARANTIA",
+          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-17-256gb-c-garantia-1547627745",
+          "preco": 4599,
+          "localizacao": "São José, Potecas",
+          "data": "26 de out, 13:33",
+          "imagem": "https://img.olx.com.br/thumbs700x500/29/296631338981379.webp"
+        },
+        {
+          "id": "1547615948",
+          "titulo": "Iphone 17 256gb Branco",
+          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-17-256gb-branco-1547615948",
+          "preco": 4600,
+          "localizacao": "Palhoça, Jardim Eldorado",
+          "data": "26 de out, 12:40",
+          "imagem": "https://img.olx.com.br/thumbs700x500/31/314604219236827.webp"
+        },
+        {
+          "id": "1547820276",
+          "titulo": "VENDO iPhone 17 NOVO  - R$ 5.200 À VISTA",
+          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/vendo-iphone-17-novo-r-5-200-vista-1547820276",
+          "preco": 5200,
+          "localizacao": "Joinville, Saguaçu",
+          "data": "26 de out, 22:47",
+          "imagem": "https://img.olx.com.br/thumbs700x500/98/982646095123001.webp"
         }
       ],
-      "anunciosMaisAntigosQue30Dias": [],
       "anunciosDataNaoReconhecida": []
     },
     {
       "modelo": "iPhone 17 Pro",
       "url": "https://www.olx.com.br/celulares/apple/iphone-17-pro/256gb/estado-sc/norte-de-santa-catarina?q=iphone%2017&sp=1",
       "totalAnuncios": 44,
-      "precoMinimo": 5999,
-      "precoMediano": 6749.5,
+      "precoMinimo": 6000,
+      "precoMediano": 6799.5,
       "precoMaximo": 7755,
       "anuncios": [
-        {
-          "id": "1555432997",
-          "titulo": "iPhone 17 pro 256gb azul",
-          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-17-pro-256gb-azul-1555432997",
-          "preco": 5999,
-          "localizacao": "São José, Areias",
-          "data": "Ontem, 19:46",
-          "imagem": "https://img.olx.com.br/thumbs700x500/48/487671461996784.webp"
-        },
         {
           "id": "1554860894",
           "titulo": "IPhone 17 PRO 256",
@@ -3658,6 +3575,15 @@
           "localizacao": "São José, Kobrasol",
           "data": "29 de out, 14:07",
           "imagem": "https://img.olx.com.br/thumbs700x500/70/704626217311522.webp"
+        },
+        {
+          "id": "1553161521",
+          "titulo": "iPhone 17 PRO - 256Gb",
+          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-17-pro-256gb-1553161521",
+          "preco": 6199,
+          "localizacao": "Florianópolis, Abraão",
+          "data": "Hoje, 08:30",
+          "imagem": "https://img.olx.com.br/thumbs700x500/14/142610706428362.webp"
         },
         {
           "id": "1551178089",
@@ -3696,15 +3622,6 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/19/193698340460293.webp"
         },
         {
-          "id": "1553161521",
-          "titulo": "iPhone 17 PRO - 256Gb",
-          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-17-pro-256gb-1553161521",
-          "preco": 6350,
-          "localizacao": "Florianópolis, Abraão",
-          "data": "Hoje, 08:30",
-          "imagem": "https://img.olx.com.br/thumbs700x500/14/142610706428362.webp"
-        },
-        {
           "id": "1548122533",
           "titulo": "iPhone 17 Pro 256Gb - APENAS 48 ciclos",
           "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-17-pro-256gb-apenas-48-ciclos-1548122533",
@@ -3712,6 +3629,15 @@
           "localizacao": "Biguaçu, Beira Rio",
           "data": "27 de out, 23:56",
           "imagem": "https://img.olx.com.br/thumbs700x500/37/377634099198411.webp"
+        },
+        {
+          "id": "1555749098",
+          "titulo": "iPhone 17 Pro 256gb com apenas um mês de uso",
+          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-17-pro-256gb-com-apenas-um-mes-de-uso-1555749098",
+          "preco": 6450,
+          "localizacao": "São José, Kobrasol",
+          "data": "Ontem, 22:18",
+          "imagem": "https://img.olx.com.br/thumbs700x500/16/161629344777361.webp"
         },
         {
           "id": "1553667242",
@@ -3795,15 +3721,6 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/81/813638341799486.webp"
         },
         {
-          "id": "1553441161",
-          "titulo": "iPhone 17 Pro 256GB Prata, bateria 99%, chip físico + eSIM",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-pro-256gb-prata-bateria-99-chip-fisico-esim-1553441161",
-          "preco": 6700,
-          "localizacao": "Blumenau, Ponta Aguda",
-          "data": "16 de nov, 17:30",
-          "imagem": "https://img.olx.com.br/thumbs700x500/45/459649827297226.webp"
-        },
-        {
           "id": "1551870081",
           "titulo": "NOVO! Apple iPhone 17 Pro, 256 GB, Cosmic Orange, eSIM",
           "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/novo-apple-iphone-17-pro-256-gb-cosmic-orange-esim-1551870081",
@@ -3811,15 +3728,6 @@
           "localizacao": "Florianópolis, Ingleses do Rio Vermelho",
           "data": "10 de nov, 19:51",
           "imagem": "https://img.olx.com.br/thumbs700x500/84/847689220559109.webp"
-        },
-        {
-          "id": "1555068812",
-          "titulo": "iPhone 17 Pro 256GB - 100% de Bateria - Garantia Apple até Julho/2027 - Até 18x",
-          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-17-pro-256gb-100-de-bateria-garantia-apple-ate-julho-2027-ate-18x-1555068812",
-          "preco": 6799,
-          "localizacao": "São José, Campinas",
-          "data": "22 de nov, 13:20",
-          "imagem": "https://img.olx.com.br/thumbs700x500/56/568691828623652.webp"
         },
         {
           "id": "1552201305",
@@ -3858,6 +3766,15 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/42/426664219464943.webp"
         },
         {
+          "id": "1555570682",
+          "titulo": "Celular iPhone 17 pro 256g",
+          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/celular-iphone-17-pro-256g-1555570682",
+          "preco": 6900,
+          "localizacao": "São José, Campinas",
+          "data": "Ontem, 11:33",
+          "imagem": "https://img.olx.com.br/thumbs700x500/99/992659941805843.webp"
+        },
+        {
           "id": "1555164727",
           "titulo": "iPhone 17 Pro 256GB - Azul | Seminovo",
           "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-17-pro-256gb-azul-seminovo-1555164727",
@@ -3872,7 +3789,7 @@
           "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-17-pro-256gb-oportunidade-imperdivel-estado-de-novo-1555247018",
           "preco": 6990,
           "localizacao": "Biguaçu, Bom Viver",
-          "data": "Ontem, 09:49",
+          "data": "23 de nov, 09:49",
           "imagem": "https://img.olx.com.br/thumbs700x500/84/840692225912818.webp"
         },
         {
@@ -3899,7 +3816,7 @@
           "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-17-pro-256-gb-1544005455",
           "preco": 7200,
           "localizacao": "Florianópolis, Barra da Lagoa",
-          "data": "20 de nov, 17:06",
+          "data": "Ontem, 13:21",
           "imagem": "https://img.olx.com.br/thumbs700x500/94/947682456794548.webp"
         },
         {
@@ -4009,29 +3926,28 @@
           "localizacao": "Florianópolis, Lagoa da Conceição",
           "data": "29 de out, 22:29",
           "imagem": "https://img.olx.com.br/thumbs700x500/74/741620570074132.webp"
+        },
+        {
+          "id": "1543416626",
+          "titulo": "Iphone 17 Pro Laranja 256GB",
+          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-17-pro-laranja-256gb-1543416626",
+          "preco": 7755,
+          "localizacao": "Florianópolis, Lagoa da Conceição",
+          "data": "29 de out, 22:27",
+          "imagem": "https://img.olx.com.br/thumbs700x500/60/602695098542157.webp"
         }
       ],
       "anunciosDescartadosPorPreco": [],
-      "anunciosMaisAntigosQue30Dias": [
-        {
-          "id": "1547327309",
-          "titulo": "iPhone 17 pro - 256GB",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-pro-256gb-1547327309",
-          "preco": 6500,
-          "localizacao": "Joinville, Anita Garibaldi",
-          "data": "25 de out, 12:18",
-          "imagem": "https://img.olx.com.br/thumbs700x500/75/756644699458957.webp"
-        }
-      ],
+      "anunciosMaisAntigosQue30Dias": [],
       "anunciosDataNaoReconhecida": []
     },
     {
       "modelo": "iPhone 17 Pro Max",
       "url": "https://www.olx.com.br/celulares/apple/iphone-17-pro-max/256gb/estado-sc/norte-de-santa-catarina?q=iphone%2017&sp=1",
-      "totalAnuncios": 46,
+      "totalAnuncios": 47,
       "precoMinimo": 5999,
       "precoMediano": 6700,
-      "precoMaximo": 6999,
+      "precoMaximo": 6990,
       "anuncios": [
         {
           "id": "1551274832",
@@ -4057,7 +3973,7 @@
           "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-17-pro-max-1555471228",
           "preco": 6100,
           "localizacao": "Palhoça, Barra do Aririú",
-          "data": "Ontem, 23:14",
+          "data": "23 de nov, 23:14",
           "imagem": "https://img.olx.com.br/thumbs700x500/20/209663345051626.webp"
         },
         {
@@ -4066,7 +3982,7 @@
           "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-17-pro-max-1555308595",
           "preco": 6200,
           "localizacao": "Florianópolis, Ingleses",
-          "data": "Ontem, 13:05",
+          "data": "23 de nov, 13:05",
           "imagem": "https://img.olx.com.br/thumbs700x500/51/513609705209952.webp"
         },
         {
@@ -4097,15 +4013,6 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/47/471623343668234.webp"
         },
         {
-          "id": "1549922704",
-          "titulo": "iPhone 17 Pro Max 256GB",
-          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-17-pro-max-256gb-1549922704",
-          "preco": 6399,
-          "localizacao": "Palhoça, Centro",
-          "data": "3 de nov, 14:15",
-          "imagem": "https://img.olx.com.br/thumbs700x500/93/932680343010259.webp"
-        },
-        {
           "id": "1550436677",
           "titulo": "iPhone 17 Pro Max 256GB SEMINOVO",
           "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-17-pro-max-256gb-seminovo-1550436677",
@@ -4115,22 +4022,13 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/92/929682948882007.webp"
         },
         {
-          "id": "1555527756",
-          "titulo": "IPHONE 17 PRO MAX 256GB",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-pro-max-256gb-1555527756",
-          "preco": 6499,
-          "localizacao": "Joinville, Aventureiro",
-          "data": "Hoje, 08:55",
-          "imagem": "https://img.olx.com.br/thumbs700x500/38/384603108222937.webp"
-        },
-        {
-          "id": "1555352864",
-          "titulo": "IPHONE 17 PRO MAX SILVER 256gb",
-          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-17-pro-max-silver-256gb-1555352864",
+          "id": "1555818230",
+          "titulo": "iPhone 17 pro max",
+          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-17-pro-max-1555818230",
           "preco": 6500,
-          "localizacao": "Florianópolis, Agronômica",
-          "data": "Ontem, 16:49",
-          "imagem": "https://img.olx.com.br/thumbs700x500/57/579614463979797.webp"
+          "localizacao": "Palhoça, Passa Vinte",
+          "data": "Hoje, 06:38",
+          "imagem": "https://img.olx.com.br/thumbs700x500/94/947627702713090.webp"
         },
         {
           "id": "1551613770",
@@ -4140,6 +4038,24 @@
           "localizacao": "Blumenau, Salto do Norte",
           "data": "9 de nov, 22:21",
           "imagem": "https://img.olx.com.br/thumbs700x500/65/659654821550468.webp"
+        },
+        {
+          "id": "1555637621",
+          "titulo": "17 Pro Max Laranja",
+          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/17-pro-max-laranja-1555637621",
+          "preco": 6500,
+          "localizacao": "Tubarão, Recife",
+          "data": "Ontem, 15:44",
+          "imagem": "https://img.olx.com.br/thumbs700x500/67/671690224629892.webp"
+        },
+        {
+          "id": "1555597691",
+          "titulo": "Ioho e 17 pro max",
+          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/ioho-e-17-pro-max-1555597691",
+          "preco": 6500,
+          "localizacao": "Florianópolis, Centro",
+          "data": "Ontem, 13:19",
+          "imagem": "https://img.olx.com.br/thumbs700x500/18/181607707111163.webp"
         },
         {
           "id": "1545443959",
@@ -4196,6 +4112,15 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/58/584663339320764.webp"
         },
         {
+          "id": "1553496042",
+          "titulo": "iPhone 17 Pro Max 256gb na garantia Apple até 29/01/2027",
+          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-17-pro-max-256gb-na-garantia-apple-ate-29-01-2027-1553496042",
+          "preco": 6699,
+          "localizacao": "São José, Kobrasol",
+          "data": "16 de nov, 18:08",
+          "imagem": "https://img.olx.com.br/thumbs700x500/80/805639100690300.webp"
+        },
+        {
           "id": "1545515715",
           "titulo": "iPhone 17 Pro Max 256gb laranja semi novo - em até 24x + taxa!!",
           "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-17-pro-max-256gb-laranja-semi-novo-em-ate-24x-taxa-1545515715",
@@ -4221,15 +4146,6 @@
           "localizacao": "São José, Kobrasol",
           "data": "2 de nov, 18:57",
           "imagem": "https://img.olx.com.br/thumbs700x500/10/104689810323180.webp"
-        },
-        {
-          "id": "1555388583",
-          "titulo": "Iphone 17 pro max, branco, 256G",
-          "link": "https://sc.olx.com.br/oeste-de-santa-catarina/celulares/iphone-17-pro-max-branco-256g-1555388583",
-          "preco": 6700,
-          "localizacao": "Chapecó, Paraíso",
-          "data": "Ontem, 17:05",
-          "imagem": "https://img.olx.com.br/thumbs700x500/32/325608827088033.webp"
         },
         {
           "id": "1553872258",
@@ -4268,6 +4184,15 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/90/904616578717979.webp"
         },
         {
+          "id": "1539326138",
+          "titulo": "iPhone 17 Pro Max 256gb garantia até 01/2027",
+          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-17-pro-max-256gb-garantia-ate-01-2027-1539326138",
+          "preco": 6799,
+          "localizacao": "São José, Kobrasol",
+          "data": "23 de nov, 20:55",
+          "imagem": "https://img.olx.com.br/thumbs700x500/99/997633325860483.webp"
+        },
+        {
           "id": "1548632009",
           "titulo": "iPhone 17 Pro Max 256gb garantia Apple até 01/2027",
           "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-17-pro-max-256gb-garantia-apple-ate-01-2027-1548632009",
@@ -4284,15 +4209,6 @@
           "localizacao": "Joinville, Glória",
           "data": "27 de out, 16:20",
           "imagem": "https://img.olx.com.br/thumbs700x500/20/201620210424483.webp"
-        },
-        {
-          "id": "1555348134",
-          "titulo": "iPhone 17 pro max",
-          "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-pro-max-1555348134",
-          "preco": 6800,
-          "localizacao": "Joinville, Costa e Silva",
-          "data": "Ontem, 15:54",
-          "imagem": "https://img.olx.com.br/thumbs700x500/49/492605828827473.webp"
         },
         {
           "id": "1549334458",
@@ -4331,6 +4247,15 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/99/995687827937895.webp"
         },
         {
+          "id": "1555691504",
+          "titulo": "iPhone 17 Pro Max 256 GB laranja | Bateria 98%",
+          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-17-pro-max-256-gb-laranja-bateria-98-1555691504",
+          "preco": 6890,
+          "localizacao": "Florianópolis, Trindade",
+          "data": "Ontem, 19:05",
+          "imagem": "https://img.olx.com.br/thumbs700x500/41/419684705603380.webp"
+        },
+        {
           "id": "1551517372",
           "titulo": "iPhone 17 Pro Max laranja 256GB",
           "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-17-pro-max-laranja-256gb-1551517372",
@@ -4345,17 +4270,8 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-pro-max-256gb-1555304544",
           "preco": 6899,
           "localizacao": "Joinville, Aventureiro",
-          "data": "Ontem, 12:48",
+          "data": "23 de nov, 12:48",
           "imagem": "https://img.olx.com.br/thumbs700x500/66/663690228141798.webp"
-        },
-        {
-          "id": "1553496042",
-          "titulo": "iPhone 17 Pro Max 256gb na garantia Apple até 29/01/2027",
-          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-17-pro-max-256gb-na-garantia-apple-ate-29-01-2027-1553496042",
-          "preco": 6899,
-          "localizacao": "São José, Kobrasol",
-          "data": "16 de nov, 18:08",
-          "imagem": "https://img.olx.com.br/thumbs700x500/80/805639100690300.webp"
         },
         {
           "id": "1552964150",
@@ -4421,6 +4337,15 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/22/229689213867640.webp"
         },
         {
+          "id": "1555835323",
+          "titulo": "iPhone 17 pro Max Azul 256gb 99?",
+          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-17-pro-max-azul-256gb-99-1555835323",
+          "preco": 6950,
+          "localizacao": "Florianópolis, São João do Rio Vermelho",
+          "data": "Hoje, 08:38",
+          "imagem": "https://img.olx.com.br/thumbs700x500/97/976602580287393.webp"
+        },
+        {
           "id": "1552188267",
           "titulo": "iPhone 17 Pro Max 256gb na garantia Apple até 07/2027",
           "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-17-pro-max-256gb-na-garantia-apple-ate-07-2027-1552188267",
@@ -4430,6 +4355,15 @@
           "imagem": "https://img.olx.com.br/thumbs700x500/51/510603702201193.webp"
         },
         {
+          "id": "1555692684",
+          "titulo": "iPhone 17 Pro Max 256 GB azul | Bateria 99% | Garantia até 03/2027",
+          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-17-pro-max-256-gb-azul-bateria-99-garantia-ate-03-2027-1555692684",
+          "preco": 6990,
+          "localizacao": "Florianópolis, Trindade",
+          "data": "Ontem, 19:16",
+          "imagem": "https://img.olx.com.br/thumbs700x500/71/717608343145524.webp"
+        },
+        {
           "id": "1552262390",
           "titulo": "Iphone 17 pro max 256 gb",
           "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-17-pro-max-256-gb-1552262390",
@@ -4437,15 +4371,6 @@
           "localizacao": "Florianópolis, Carianos",
           "data": "12 de nov, 09:10",
           "imagem": "https://img.olx.com.br/thumbs700x500/29/292654707396304.webp"
-        },
-        {
-          "id": "1539326138",
-          "titulo": "iPhone 17 Pro Max 256gb ativado 31/07/2026",
-          "link": "https://sc.olx.com.br/florianopolis-e-regiao/celulares/iphone-17-pro-max-256gb-ativado-31-07-2026-1539326138",
-          "preco": 6999,
-          "localizacao": "São José, Kobrasol",
-          "data": "Ontem, 20:55",
-          "imagem": "https://img.olx.com.br/thumbs700x500/99/997633325860483.webp"
         }
       ],
       "anunciosDescartadosPorPreco": [
@@ -4455,7 +4380,7 @@
           "link": "https://sc.olx.com.br/norte-de-santa-catarina/celulares/iphone-17-pro-max-256-gb-na-caixa-1555294689",
           "preco": 5700,
           "localizacao": "Balneário Camboriú, Municípios",
-          "data": "Ontem, 12:19",
+          "data": "23 de nov, 12:19",
           "imagem": "https://img.olx.com.br/thumbs700x500/68/686695340553805.webp"
         }
       ],
